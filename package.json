@@ -1,0 +1,28 @@
+{
+  "name": "tekken-frame-data",
+  "version": "0.4.0",
+  "description": "TTT2 & T7 Frame Data ripped from rbnorway",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp ci"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tekken-london/tekken-frame-data.git"
+  },
+  "keywords": [
+    "tekken"
+  ],
+  "author": "Haroun Butt <dekuharoun@gmail.com> (https://github.com/harounb/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tekken-london/tekken-frame-data/issues"
+  },
+  "homepage": "https://github.com/tekken-london/tekken-frame-data#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-beautify": "^2.0.0",
+    "gulp-diff": "^1.0.0",
+    "gulp-jsonlint": "^1.1.2"
+  }
+}
