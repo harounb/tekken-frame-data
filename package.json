@@ -4,7 +4,8 @@
   "description": "TTT2 & T7 Frame Data ripped from rbnorway",
   "main": "index.js",
   "scripts": {
-    "test": "gulp ci"
+    "test": "gulp ci",
+    "format": "gulp format"
   },
   "repository": {
     "type": "git",
