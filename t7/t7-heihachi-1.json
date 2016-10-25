@@ -1,5 +1,14 @@
 {
   "moves": [{
+    "notation": "in rage d+1+2",
+    "hit_level": "m",
+    "damage": null,
+    "speed": null,
+    "on_block": "–",
+    "on_hit": "KND",
+    "on_ch": "KND",
+    "notes": "Rage art"
+  }, {
     "notation": "1",
     "hit_level": "h",
     "damage": "9",
@@ -174,8 +183,8 @@
     "notation": "f+2",
     "hit_level": "h",
     "damage": null,
-    "speed": "12",
-    "on_block": "–",
+    "speed": "15",
+    "on_block": "-13",
     "on_hit": "+",
     "on_ch": "+",
     "notes": null
@@ -183,8 +192,8 @@
     "notation": "f+2, 3",
     "hit_level": "h, m",
     "damage": ",",
-    "speed": "12",
-    "on_block": "–",
+    "speed": "15",
+    "on_block": "-3",
     "on_hit": "KND",
     "on_ch": "CS",
     "notes": null
@@ -220,8 +229,8 @@
     "hit_level": "m",
     "damage": "27",
     "speed": "19~20",
-    "on_block": "+3~+4",
-    "on_hit": "+7~+8 OC",
+    "on_block": "+3~+4s?",
+    "on_hit": "+7~+8s (+13~?)",
     "on_ch": "KND",
     "notes": null
   }, {
@@ -230,8 +239,8 @@
     "damage": "20",
     "speed": "12~13",
     "on_block": "-12~-11",
-    "on_hit": "KND",
-    "on_ch": "KND",
+    "on_hit": "ATD",
+    "on_ch": "ATD",
     "notes": null
   }, {
     "notation": "d/f+1",
@@ -256,7 +265,7 @@
     "hit_level": "m, m",
     "damage": "13,28",
     "speed": "13~14",
-    "on_block": "-13 OC",
+    "on_block": "-13~-12s",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null
@@ -265,9 +274,9 @@
     "hit_level": "m",
     "damage": "32(37)",
     "speed": "23~24",
-    "on_block": "–",
-    "on_hit": "+?",
-    "on_ch": "KND?",
+    "on_block": "-14",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": "Power crush"
   }, {
     "notation": "d+1",
@@ -286,6 +295,15 @@
     "on_block": "-9",
     "on_hit": "+2s",
     "on_ch": "KND",
+    "notes": null
+  }, {
+    "notation": "d+1, 2",
+    "hit_level": "m, m",
+    "damage": "21,",
+    "speed": "17",
+    "on_block": "-9?",
+    "on_hit": "+",
+    "on_ch": "hKZD",
     "notes": null
   }, {
     "notation": "d+3 or d/f+3+4",
@@ -318,7 +336,7 @@
     "notation": "d/b+2",
     "hit_level": "l (TC)",
     "damage": "29",
-    "speed": "23s",
+    "speed": "23(s)",
     "on_block": "-18",
     "on_hit": "+1~?s",
     "on_ch": "KND",
@@ -378,6 +396,15 @@
     "on_ch": "CS",
     "notes": null
   }, {
+    "notation": "in rage b+2, 1+2",
+    "hit_level": "m, h",
+    "damage": ",",
+    "speed": "22",
+    "on_block": "+9?",
+    "on_hit": "KND",
+    "on_ch": "KND",
+    "notes": "Rage art"
+  }, {
     "notation": "b+3",
     "hit_level": "h",
     "damage": "18",
@@ -403,7 +430,7 @@
     "on_block": "-9~-7",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": "Homing"
+    "notes": "Homing, Tail spin"
   }, {
     "notation": "b+1+2",
     "hit_level": "m",
@@ -436,10 +463,10 @@
     "hit_level": "m (TJ), m (TJ)",
     "damage": "27,27",
     "speed": "28~29",
-    "on_block": "+3",
+    "on_block": "+1",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": null
+    "notes": "Tail spin"
   }, {
     "notation": "u/f+4",
     "hit_level": "m (TJ)",
@@ -495,6 +522,15 @@
     "on_ch": "KND",
     "notes": null
   }, {
+    "notation": "b, f+2, 3",
+    "hit_level": "m, h",
+    "damage": "18,",
+    "speed": "15(15~)",
+    "on_block": "–",
+    "on_hit": "KND",
+    "on_ch": null,
+    "notes": "Tail spin"
+  }, {
     "notation": "b, B+1+2",
     "hit_level": "m",
     "damage": "33",
@@ -536,8 +572,8 @@
     "damage": "27",
     "speed": "14",
     "on_block": "-14?",
-    "on_hit": "KND",
-    "on_ch": "KND",
+    "on_hit": "ATD",
+    "on_ch": "ATD",
     "notes": null
   }, {
     "notation": "WS+2",
@@ -611,15 +647,6 @@
     "on_hit": null,
     "on_ch": null,
     "notes": null
-  }, {
-    "notation": "in rage d+1+2",
-    "hit_level": "m",
-    "damage": null,
-    "speed": "19",
-    "on_block": "–",
-    "on_hit": "KND",
-    "on_ch": "KND",
-    "notes": "Rage art"
   }, {
     "notation": "f+3+4",
     "hit_level": "(Special)(h or m punch parry)(RAI)",
@@ -751,7 +778,7 @@
     "hit_level": "l, l(HS)",
     "damage": "20,13",
     "speed": "21(24~)",
-    "on_block": "-12?",
+    "on_block": "-11",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null
