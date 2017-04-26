@@ -40,19 +40,19 @@
     "hit_level": "h",
     "damage": null,
     "speed": "12",
-    "on_block": "-",
+    "on_block": "-5?",
     "on_hit": "+",
     "on_ch": "+",
     "notes": "Homing"
   }, {
     "notation": "b+2",
     "hit_level": "m",
-    "damage": "32",
-    "speed": "21",
-    "on_block": "-8",
-    "on_hit": "KND",
-    "on_ch": "CS 13",
-    "notes": "Homing"
+    "damage": null,
+    "speed": "18?",
+    "on_block": "-9?s",
+    "on_hit": "+s",
+    "on_ch": null,
+    "notes": null
   }, {
     "notation": "b+3",
     "hit_level": "h",
@@ -201,8 +201,8 @@
     "notation": "d/b+2",
     "hit_level": "m",
     "damage": null,
-    "speed": "16~17?",
-    "on_block": "-11?",
+    "speed": "19~20?",
+    "on_block": "-11~-10?",
     "on_hit": "KND",
     "on_ch": "Launch",
     "notes": null
@@ -330,7 +330,7 @@
     "speed": "19",
     "on_block": "-1",
     "on_hit": "+9",
-    "on_ch": "FS(+12 GB) 24",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "u/b or u or u/f+1",
@@ -342,7 +342,16 @@
     "on_ch": "+3",
     "notes": null
   }, {
-    "notation": "u/b or u+2",
+    "notation": "u/b+2",
+    "hit_level": "m",
+    "damage": "32",
+    "speed": "21",
+    "on_block": "-8",
+    "on_hit": "KND",
+    "on_ch": "CS 13",
+    "notes": "Homing"
+  }, {
+    "notation": "u+2",
     "hit_level": "h",
     "damage": "22",
     "speed": "15",
@@ -410,6 +419,15 @@
     "damage": "17",
     "speed": "15",
     "on_block": "-13",
+    "on_hit": "Launch (JG?)",
+    "on_ch": "Launch (JG?)",
+    "notes": null
+  }, {
+    "notation": "u/f, n+4",
+    "hit_level": "m (TJ)",
+    "damage": "33+",
+    "speed": "23,",
+    "on_block": "-11",
     "on_hit": "Launch (JG?)",
     "on_ch": "Launch (JG?)",
     "notes": null
