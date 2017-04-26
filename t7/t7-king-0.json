@@ -122,7 +122,7 @@
     "damage": "33",
     "speed": "22(23~)",
     "on_block": "-5",
-    "on_hit": "+k",
+    "on_hit": "+14~kg",
     "on_ch": "KND",
     "notes": "Homing, Tail spin"
   }, {
@@ -219,10 +219,10 @@
     "notation": "d/b+4",
     "hit_level": "l (TJ)",
     "damage": "27",
-    "speed": "27~29 RC",
+    "speed": "27~29?s",
     "on_block": "-17~-15a",
     "on_hit": "KND",
-    "on_ch": "KND",
+    "on_ch": "aUD",
     "notes": null
   }, {
     "notation": "FC+d/b or d+1",
@@ -280,10 +280,10 @@
     "notes": "Homing"
   }, {
     "notation": "WS+3",
-    "hit_level": "m",
+    "hit_level": "h",
     "damage": "37",
     "speed": "16",
-    "on_block": "-16",
+    "on_block": "0",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null
@@ -426,8 +426,8 @@
     "notation": "u/f+4",
     "hit_level": "m (TJ)",
     "damage": "17",
-    "speed": "15",
-    "on_block": "-13",
+    "speed": "15~16",
+    "on_block": "-13~-12",
     "on_hit": "Launch (JG?)",
     "on_ch": "Launch (JG?)",
     "notes": null
