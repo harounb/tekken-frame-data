@@ -2304,6 +2304,15 @@
     "on_ch": "+3",
     "notes": null
   }, {
+    "notation": "BT d+4 or BT FC+4",
+    "hit_level": "l",
+    "damage": "16",
+    "speed": "22~24",
+    "on_block": "-16~-14",
+    "on_hit": "KND",
+    "on_ch": "KND",
+    "notes": null
+  }, {
     "notation": "BT u/b or u or u/f+3",
     "hit_level": "m (TJ)",
     "damage": "33",

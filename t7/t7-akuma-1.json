@@ -603,7 +603,7 @@
     "on_ch": "Launch (JG?)",
     "notes": null
   }, {
-    "notation": "f, d, d/f+2 (Only first hit)",
+    "notation": "f, d, d/f+2, 1+2f, f (Only first hit)",
     "hit_level": "Sm",
     "damage": "6",
     "speed": "11",
@@ -612,7 +612,7 @@
     "on_ch": null,
     "notes": null
   }, {
-    "notation": "f, d, d/f+2 (Only two first hits)",
+    "notation": "f, d, d/f+2, 1+2f, f (Only two first hits)",
     "hit_level": "Sm x 2",
     "damage": "6,6",
     "speed": "11,",
@@ -1348,6 +1348,24 @@
     "on_block": "-8",
     "on_hit": "KND",
     "on_ch": "KND",
+    "notes": null
+  }, {
+    "notation": "BT d+1 or 2",
+    "hit_level": "Sm",
+    "damage": "10",
+    "speed": "10s",
+    "on_block": "-2",
+    "on_hit": "+9",
+    "on_ch": "+9",
+    "notes": null
+  }, {
+    "notation": "BT d+3 or 4",
+    "hit_level": "l",
+    "damage": "12",
+    "speed": "10s",
+    "on_block": "-11",
+    "on_hit": "+3",
+    "on_ch": "+3",
     "notes": null
   }],
   "metadata": {

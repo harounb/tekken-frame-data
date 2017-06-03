@@ -864,15 +864,6 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "BT 1+2",
-    "hit_level": "h!",
-    "damage": "67",
-    "speed": "27~29",
-    "on_block": "KND",
-    "on_hit": "KND",
-    "on_ch": "KND",
-    "notes": null
-  }, {
     "notation": "BT 3",
     "hit_level": "m",
     "damage": "20",
@@ -880,6 +871,15 @@
     "on_block": "-16",
     "on_hit": "+7",
     "on_ch": "CS",
+    "notes": null
+  }, {
+    "notation": "BT 1+2",
+    "hit_level": "h!",
+    "damage": "67",
+    "speed": "27~29",
+    "on_block": "KND",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "BT d+4",
@@ -1715,6 +1715,33 @@
     "damage": "33",
     "speed": "10",
     "on_block": "-8",
+    "on_hit": "KND",
+    "on_ch": "KND",
+    "notes": null
+  }, {
+    "notation": "BT d+1 or 2",
+    "hit_level": "Sm",
+    "damage": "10",
+    "speed": "10s",
+    "on_block": "-2",
+    "on_hit": "+9",
+    "on_ch": "+9",
+    "notes": null
+  }, {
+    "notation": "BT d+3",
+    "hit_level": "l",
+    "damage": "12",
+    "speed": "10s",
+    "on_block": "-11",
+    "on_hit": "+3",
+    "on_ch": "+3",
+    "notes": null
+  }, {
+    "notation": "BT d+4",
+    "hit_level": "l (TJ)",
+    "damage": "27",
+    "speed": "22~24 RC",
+    "on_block": "-17~-15",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null
