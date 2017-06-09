@@ -4,7 +4,7 @@
     "hit_level": "m",
     "damage": null,
     "speed": null,
-    "on_block": "–",
+    "on_block": "-32",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null

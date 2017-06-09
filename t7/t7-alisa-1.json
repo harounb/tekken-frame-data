@@ -4,7 +4,7 @@
     "hit_level": "h x 6, (DES)",
     "damage": null,
     "speed": "13",
-    "on_block": "-~+?",
+    "on_block": "+1~?",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": "Rage art"
@@ -42,7 +42,7 @@
     "speed": "10",
     "on_block": "-2",
     "on_hit": "+4",
-    "on_ch": "+4?",
+    "on_ch": "+9",
     "notes": null
   }, {
     "notation": "1, 2, 2",
@@ -112,7 +112,7 @@
     "hit_level": "h, h",
     "damage": "10,21",
     "speed": "12",
-    "on_block": "-5?",
+    "on_block": "-5",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": "Tail spin"
@@ -166,7 +166,7 @@
     "hit_level": "m, m, (DES)",
     "damage": "12,20",
     "speed": "17",
-    "on_block": "-17~?",
+    "on_block": "-20",
     "on_hit": "CS",
     "on_ch": "CS",
     "notes": null
@@ -319,9 +319,9 @@
     "hit_level": "m",
     "damage": "10",
     "speed": "13",
-    "on_block": "-6?",
-    "on_hit": "+5?",
-    "on_ch": "+8?",
+    "on_block": "-6",
+    "on_hit": "+5",
+    "on_ch": "+8",
     "notes": null
   }, {
     "notation": "d/f+1, 1",
@@ -417,7 +417,7 @@
     "notation": "d+3",
     "hit_level": "l (TJ), (Special) (TC)",
     "damage": "17",
-    "speed": "23?s~",
+    "speed": "23s~32s",
     "on_block": "-?~-?",
     "on_hit": "+9~+13?",
     "on_ch": "KND",
@@ -426,8 +426,8 @@
     "notation": "d+3 (After stance ends)",
     "hit_level": "l (TJ), (Special) (TC)",
     "damage": "17",
-    "speed": "23?s~",
-    "on_block": "-19?s~-?",
+    "speed": "23s~32s",
+    "on_block": "-19s~-10s",
     "on_hit": "-?",
     "on_ch": "KND",
     "notes": null
@@ -499,9 +499,9 @@
     "hit_level": "l (TC)",
     "damage": "11",
     "speed": "16 RC(cs4)",
-    "on_block": "-12?",
-    "on_hit": "-2?",
-    "on_ch": "+4?",
+    "on_block": "-12",
+    "on_hit": "-1",
+    "on_ch": "+4",
     "notes": null
   }, {
     "notation": "d/b+4",
@@ -571,8 +571,8 @@
     "hit_level": "m (TJ)",
     "damage": "17",
     "speed": "15~16",
-    "on_block": "-12~-11",
-    "on_hit": "-3~-2",
+    "on_block": "-13~-12",
+    "on_hit": "-4~-3",
     "on_ch": "CS",
     "notes": null
   }, {
@@ -661,7 +661,7 @@
     "hit_level": "m (TJ), m (TJ)",
     "damage": "15,30",
     "speed": "20()",
-    "on_block": "-14~-12",
+    "on_block": "-14~-11",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null

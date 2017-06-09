@@ -342,8 +342,8 @@
     "on_ch": "+9",
     "notes": null
   }, {
-    "notation": "f+3 (to LFS)",
-    "hit_level": "(LFS)",
+    "notation": "f+3",
+    "hit_level": "(Special)",
     "damage": null,
     "speed": "16",
     "on_block": null,
@@ -798,7 +798,7 @@
     "speed": "18(21~)",
     "on_block": "+3?",
     "on_hit": "KND",
-    "on_ch": "FS(+)",
+    "on_ch": "mKZD",
     "notes": null
   }, {
     "notation": "f, n, d, d/f+4",
@@ -1341,8 +1341,8 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f+3 (to LFS)",
-    "hit_level": "(LFS)",
+    "notation": "f+3",
+    "hit_level": "(Special)",
     "damage": null,
     "speed": "18",
     "on_block": null,
@@ -2284,6 +2284,24 @@
     "on_block": "-13",
     "on_hit": "Launch (JG?)",
     "on_ch": "Launch (JG?)",
+    "notes": null
+  }, {
+    "notation": "BT d+1 or 2",
+    "hit_level": "Sm",
+    "damage": "10",
+    "speed": "10s",
+    "on_block": "-2",
+    "on_hit": "+9",
+    "on_ch": "+9",
+    "notes": null
+  }, {
+    "notation": "BT d+3 or 4",
+    "hit_level": "l",
+    "damage": "12",
+    "speed": "10s",
+    "on_block": "-11",
+    "on_hit": "+3",
+    "on_ch": "+3",
     "notes": null
   }],
   "metadata": {

@@ -481,7 +481,7 @@
     "hit_level": "l (TC)",
     "damage": "21",
     "speed": "25",
-    "on_block": "-18",
+    "on_block": "-26 OC",
     "on_hit": "KND",
     "on_ch": "Throw(KND)",
     "notes": null
@@ -490,7 +490,7 @@
     "hit_level": "l (TC)",
     "damage": "14",
     "speed": "25~26",
-    "on_block": "-18~-17",
+    "on_block": "-26 OC",
     "on_hit": "-7~-6",
     "on_ch": "KND",
     "notes": null
@@ -572,8 +572,8 @@
     "damage": "17",
     "speed": "14~15",
     "on_block": "-9~-8",
-    "on_hit": "+k",
-    "on_ch": "+k",
+    "on_hit": "+11k",
+    "on_ch": "+11k",
     "notes": "Homing, Tail spin"
   }, {
     "notation": "b+4",
@@ -687,8 +687,8 @@
     "notation": "u or u/f+2",
     "hit_level": "m (TJ)",
     "damage": "20",
-    "speed": "16",
-    "on_block": "-3?",
+    "speed": "30~31",
+    "on_block": "-5~-4",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null
@@ -1036,7 +1036,7 @@
     "notes": null
   }, {
     "notation": "qcf+4 When hit 1, 3, 4, 2",
-    "hit_level": "Chain",
+    "hit_level": "Chained",
     "damage": "25,10,20",
     "speed": "17~18 (19~)",
     "on_block": null,
@@ -1045,7 +1045,7 @@
     "notes": null
   }, {
     "notation": "qcf+4 When hit 2, 4, 3, 1",
-    "hit_level": "Chain",
+    "hit_level": "Chained",
     "damage": "25,10,20",
     "speed": "17~18 (19~)",
     "on_block": null,

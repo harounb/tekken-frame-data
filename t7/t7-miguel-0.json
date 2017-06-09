@@ -37,12 +37,12 @@
     "notes": null
   }, {
     "notation": "b+1",
-    "hit_level": "m",
-    "damage": "20",
-    "speed": "21",
-    "on_block": "-5 OC",
-    "on_hit": "-3 OC",
-    "on_ch": "-3 OC",
+    "hit_level": "h",
+    "damage": "22",
+    "speed": "11",
+    "on_block": "-9",
+    "on_hit": "-1",
+    "on_ch": "CS",
     "notes": null
   }, {
     "notation": "b+2",
@@ -67,7 +67,7 @@
     "hit_level": "m",
     "damage": "33",
     "speed": "19",
-    "on_block": "-10?",
+    "on_block": "-11?",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": "Power crush"
@@ -466,6 +466,24 @@
     "on_block": "-8",
     "on_hit": "KND",
     "on_ch": "KND",
+    "notes": null
+  }, {
+    "notation": "BT d+1 or 2",
+    "hit_level": "Sm",
+    "damage": "10",
+    "speed": "10s",
+    "on_block": "-2",
+    "on_hit": "+9",
+    "on_ch": "+9",
+    "notes": null
+  }, {
+    "notation": "BT d+3 or 4",
+    "hit_level": "l",
+    "damage": "12",
+    "speed": "10s",
+    "on_block": "-11",
+    "on_hit": "+3",
+    "on_ch": "+3",
     "notes": null
   }],
   "metadata": {
