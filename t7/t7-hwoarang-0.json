@@ -476,6 +476,24 @@
     "on_hit": "Launch (JG?)",
     "on_ch": "Launch (JG?)",
     "notes": null
+  }, {
+    "notation": "BT d+1 or 2",
+    "hit_level": "Sm",
+    "damage": "10",
+    "speed": "10s",
+    "on_block": "-2",
+    "on_hit": "+9",
+    "on_ch": "+9",
+    "notes": null
+  }, {
+    "notation": "BT d+3 or 4",
+    "hit_level": "l",
+    "damage": "12",
+    "speed": "10s",
+    "on_block": "-11",
+    "on_hit": "+3",
+    "on_ch": "+3",
+    "notes": null
   }],
   "metadata": {
     "ver": "0.4",

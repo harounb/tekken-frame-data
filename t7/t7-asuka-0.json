@@ -208,7 +208,7 @@
     "notes": null
   }, {
     "notation": "d/b+4",
-    "hit_level": "l (TC)",
+    "hit_level": "l (TC)(LCT)",
     "damage": "18",
     "speed": "22",
     "on_block": "-11",
