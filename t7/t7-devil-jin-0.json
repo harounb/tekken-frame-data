@@ -266,8 +266,8 @@
     "damage": "27",
     "speed": "15~16",
     "on_block": "-12~-11",
-    "on_hit": "SCD",
-    "on_ch": "SCD",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": "Tail spin"
   }, {
     "notation": "WS+3",

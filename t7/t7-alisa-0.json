@@ -292,9 +292,9 @@
     "hit_level": "m",
     "damage": "10",
     "speed": "13",
-    "on_block": "-6?",
-    "on_hit": "+5?",
-    "on_ch": "+8?",
+    "on_block": "-6",
+    "on_hit": "+5",
+    "on_ch": "+8",
     "notes": null
   }, {
     "notation": "d/f+2",

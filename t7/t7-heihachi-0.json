@@ -257,8 +257,8 @@
     "damage": "27",
     "speed": "14",
     "on_block": "-14?",
-    "on_hit": "ATD",
-    "on_ch": "ATD",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "WS+2",

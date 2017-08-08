@@ -87,7 +87,7 @@
     "speed": "10",
     "on_block": "-9?",
     "on_hit": "+5",
-    "on_ch": "ATD",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "f+3",

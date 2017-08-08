@@ -123,7 +123,7 @@
     "speed": "15~16 (16~)",
     "on_block": "-11~-10?",
     "on_hit": "KND",
-    "on_ch": "ATD",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "f, F+3",
@@ -285,7 +285,7 @@
     "speed": "16",
     "on_block": "-8",
     "on_hit": "KND",
-    "on_ch": "KFUD",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "WS+4",

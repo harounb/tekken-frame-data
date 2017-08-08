@@ -321,7 +321,7 @@
     "speed": "17~18",
     "on_block": "-9~-8",
     "on_hit": "KND",
-    "on_ch": "KFUD",
+    "on_ch": "KND",
     "notes": "Homing, Tail spin"
   }, {
     "notation": "d/f+4",

@@ -42,7 +42,7 @@
     "speed": "10",
     "on_block": "-10?",
     "on_hit": "+2?",
-    "on_ch": "ATD",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "b+2",
@@ -294,7 +294,7 @@
     "speed": "11~12",
     "on_block": "-7~-6",
     "on_hit": "+4~+5",
-    "on_ch": "+(sm)?",
+    "on_ch": "+(m)?",
     "notes": null
   }, {
     "notation": "d/f+1",
@@ -303,7 +303,7 @@
     "speed": "14",
     "on_block": "0",
     "on_hit": "+6",
-    "on_ch": "+(sm)",
+    "on_ch": "+(m)",
     "notes": null
   }, {
     "notation": "d/f+2",
