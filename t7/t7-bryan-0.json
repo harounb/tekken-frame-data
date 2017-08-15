@@ -131,7 +131,7 @@
     "damage": "33",
     "speed": "22~23 (23~)",
     "on_block": "-13~-12",
-    "on_hit": "KFUD",
+    "on_hit": "KND",
     "on_ch": "KND",
     "notes": "Tail spin"
   }, {

@@ -131,8 +131,8 @@
     "damage": "33",
     "speed": "20(21~)",
     "on_block": "-8",
-    "on_hit": "SCD",
-    "on_ch": "SCD",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": "Homing, Tail spin"
   }, {
     "notation": "f, F+4",
@@ -213,7 +213,7 @@
     "speed": "18",
     "on_block": "-16",
     "on_hit": "0s",
-    "on_ch": "aUD",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "d/b+3+4",

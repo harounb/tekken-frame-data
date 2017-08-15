@@ -41,8 +41,8 @@
     "damage": "17",
     "speed": "14~15",
     "on_block": "-14~-13?",
-    "on_hit": "ATD",
-    "on_ch": "ATD?",
+    "on_hit": "KND",
+    "on_ch": "KND?",
     "notes": null
   }, {
     "notation": "b+2",
@@ -105,7 +105,7 @@
     "speed": "16-17",
     "on_block": "-9",
     "on_hit": "KND",
-    "on_ch": "SCD",
+    "on_ch": "KND",
     "notes": "Tail spin, Homing"
   }, {
     "notation": "f, F+1",

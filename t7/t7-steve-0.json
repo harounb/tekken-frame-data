@@ -312,7 +312,7 @@
     "speed": "16",
     "on_block": "-12",
     "on_hit": "+4?",
-    "on_ch": "MKZD",
+    "on_ch": "CS",
     "notes": "Homing"
   }, {
     "notation": "d/f+3 (to DCK)",

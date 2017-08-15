@@ -362,16 +362,16 @@
   }, {
     "notation": "u+4",
     "hit_level": "m",
-    "damage": null,
+    "damage": "15",
     "speed": "15",
     "on_block": "-13?",
-    "on_hit": "KND?",
-    "on_ch": "Launch (JG?)?",
+    "on_hit": "KND",
+    "on_ch": "Launch (JG?)",
     "notes": null
   }, {
     "notation": "u/f+4",
     "hit_level": "m",
-    "damage": null,
+    "damage": "13",
     "speed": "15",
     "on_block": "-13",
     "on_hit": "Launch (JG?)",

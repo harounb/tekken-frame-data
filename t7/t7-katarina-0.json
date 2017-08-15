@@ -140,8 +140,8 @@
     "damage": "27",
     "speed": "21(22~)(~)",
     "on_block": "-13",
-    "on_hit": "KFUD",
-    "on_ch": "KFUD?",
+    "on_hit": "KND",
+    "on_ch": "KND?",
     "notes": "Tail spin, Homing"
   }, {
     "notation": "d+1",

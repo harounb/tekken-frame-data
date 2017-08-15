@@ -58,7 +58,7 @@
     "hit_level": "m",
     "damage": "16",
     "speed": "16",
-    "on_block": "–",
+    "on_block": "-8",
     "on_hit": "+3",
     "on_ch": "+3?",
     "notes": null
@@ -86,8 +86,8 @@
     "damage": "25",
     "speed": "17",
     "on_block": "–",
-    "on_hit": "ATD",
-    "on_ch": "ATD",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": "Power crush"
   }, {
     "notation": "f+3",
@@ -222,7 +222,7 @@
     "speed": "20",
     "on_block": "-13",
     "on_hit": "+4",
-    "on_ch": "aUD",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "FC+1",
@@ -301,7 +301,7 @@
     "hit_level": "m",
     "damage": "20",
     "speed": "15",
-    "on_block": "–",
+    "on_block": "-11",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null
@@ -346,7 +346,7 @@
     "hit_level": "m",
     "damage": "16",
     "speed": "15",
-    "on_block": "–",
+    "on_block": "-5",
     "on_hit": "+",
     "on_ch": "+",
     "notes": null

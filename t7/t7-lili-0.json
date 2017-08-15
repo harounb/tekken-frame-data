@@ -410,8 +410,8 @@
     "damage": "20",
     "speed": "19~20 (28~)",
     "on_block": "-9~-8",
-    "on_hit": "ATD",
-    "on_ch": "ATD",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "SS+4",
@@ -443,7 +443,7 @@
   }, {
     "notation": "BT 3",
     "hit_level": "h",
-    "damage": "26",
+    "damage": "25",
     "speed": "10",
     "on_block": "-8",
     "on_hit": "KND",

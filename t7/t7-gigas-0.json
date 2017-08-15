@@ -195,7 +195,7 @@
     "speed": "23(cs6)",
     "on_block": "-15",
     "on_hit": "+2",
-    "on_ch": "aUD",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "d/b+3",
@@ -285,7 +285,7 @@
     "speed": "13",
     "on_block": "-12",
     "on_hit": "KND",
-    "on_ch": "mKZD",
+    "on_ch": "CS",
     "notes": null
   }, {
     "notation": "d/f+1",
@@ -401,8 +401,8 @@
     "damage": "25",
     "speed": "21?~(30?~)",
     "on_block": "-12",
-    "on_hit": "SCD",
-    "on_ch": "SCD",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": "Tail spin"
   }, {
     "notation": "SS+3",

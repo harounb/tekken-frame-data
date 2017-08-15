@@ -78,7 +78,7 @@
     "speed": "18",
     "on_block": "-5",
     "on_hit": "+k",
-    "on_ch": "SCD",
+    "on_ch": "KND",
     "notes": "Tail spin, Homing"
   }, {
     "notation": "f+1",

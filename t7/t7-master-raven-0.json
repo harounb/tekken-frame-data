@@ -175,9 +175,9 @@
     "hit_level": "l (TC)",
     "damage": "18",
     "speed": "21s",
-    "on_block": "-14",
-    "on_hit": "-3",
-    "on_ch": "-3",
+    "on_block": "-13",
+    "on_hit": "-2",
+    "on_ch": "-2",
     "notes": null
   }, {
     "notation": "d/b or d+1",
@@ -213,7 +213,7 @@
     "speed": "23~24s",
     "on_block": "-14~-13",
     "on_hit": "+4~+5s",
-    "on_ch": "aUD",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "FC+1",
