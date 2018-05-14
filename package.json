@@ -11,9 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/tekken-london/tekken-frame-data.git"
   },
-  "keywords": [
-    "tekken"
-  ],
+  "keywords": ["tekken"],
   "author": "Haroun Butt <dekuharoun@gmail.com> (https://github.com/harounb/)",
   "license": "MIT",
   "bugs": {
