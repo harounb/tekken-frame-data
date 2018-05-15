@@ -294,7 +294,8 @@
     "speed": "14",
     "on_block": "-4",
     "on_hit": "+7",
-    "on_ch": null
+    "on_ch": "+7",
+    "notes": null
   }, {
     "notation": "d/f+4, 2, 4",
     "hit_level": "m,h,h",
