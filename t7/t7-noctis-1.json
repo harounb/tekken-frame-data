@@ -741,7 +741,11 @@
     "notation": "WS+1",
     "hit_level": "m",
     "damage": "10",
-    "speed": "-8\n+6\n+6"
+    "speed": "13",
+    "on_block": "-8",
+    "on_hit": "+6",
+    "on_ch": "+6",
+    "notes": null
   }, {
     "notation": "WS+1, 2",
     "hit_level": "m,m",
@@ -782,7 +786,11 @@
     "notation": "ws+3,2",
     "hit_level": "m,m",
     "damage": "12,5(,20)",
-    "speed": "-11\nthrow\nthrow"
+    "speed": "14",
+    "on_block": "-11",
+    "on_hit": "throw",
+    "on_ch": "throw",
+    "notes": null
   }, {
     "notation": "ws+4",
     "hit_level": "m",
