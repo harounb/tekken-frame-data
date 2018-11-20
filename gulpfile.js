@@ -2,12 +2,7 @@ var jsonlint = require("gulp-jsonlint");
 var gulp = require("gulp");
 var diff = require("gulp-diff");
 var beautify = require("gulp-beautify");
-var src = [
-  "./package.json",
-  "./.jsbeautifyrc",
-  "./ttt2/**/*.json",
-  "./t7/**/*.json"
-];
+var src = ["./.jsbeautifyrc", "./ttt2/**/*.json", "./t7/**/*.json"];
 
 gulp.task("formatcheck", function() {
   return (
