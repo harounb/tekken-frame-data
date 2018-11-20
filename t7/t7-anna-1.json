@@ -1966,16 +1966,6 @@
     "notes": "-24",
     "undefined": "-20"
   }, {
-    "notation": null,
-    "hit_level": null,
-    "damage": null,
-    "speed": null,
-    "on_block": null,
-    "on_hit": null,
-    "on_ch": null,
-    "notes": null,
-    "undefined": null
-  }, {
     "notation": "Input",
     "hit_level": "1",
     "damage": "2",

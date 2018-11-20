@@ -926,15 +926,6 @@
     "on_hit": "throw",
     "on_ch": "throw",
     "notes": null
-  }, {
-    "notation": null,
-    "hit_level": null,
-    "damage": null,
-    "speed": null,
-    "on_block": null,
-    "on_hit": null,
-    "on_ch": null,
-    "notes": null
   }],
   "metadata": {
     "ver": "0.4",
