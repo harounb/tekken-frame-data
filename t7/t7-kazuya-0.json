@@ -157,9 +157,9 @@
     "hit_level": "m",
     "damage": "20",
     "speed": "20s",
-    "on_block": "-6s",
-    "on_hit": "+9s",
-    "on_ch": "+9s",
+    "on_block": "-9s",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "d/b+3",
@@ -304,7 +304,7 @@
     "on_block": "-5~-3",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": "Homing"
+    "notes": "Homing, Tail spin"
   }, {
     "notation": "WS+4",
     "hit_level": "m",

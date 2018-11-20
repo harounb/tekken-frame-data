@@ -154,7 +154,7 @@
     "notes": null
   }, {
     "notation": "d/b+2",
-    "hit_level": "m?",
+    "hit_level": "m",
     "damage": "20",
     "speed": "24~25",
     "on_block": "-5~-4",
@@ -184,7 +184,7 @@
     "hit_level": "m",
     "damage": "15",
     "speed": "20~21",
-    "on_block": "-18~-17",
+    "on_block": "-16",
     "on_hit": "CS",
     "on_ch": "CS",
     "notes": null
@@ -200,7 +200,7 @@
   }, {
     "notation": "b+3",
     "hit_level": "m",
-    "damage": "16",
+    "damage": "10",
     "speed": "18",
     "on_block": "-6",
     "on_hit": "+6s",

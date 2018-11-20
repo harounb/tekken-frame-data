@@ -25,7 +25,7 @@
     "on_block": "+3(wl+9)",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": "Rage art"
+    "notes": "Rage drive"
   }, {
     "notation": "1",
     "hit_level": "h",
@@ -155,7 +155,7 @@
   }, {
     "notation": "f+1+4",
     "hit_level": "m",
-    "damage": "26",
+    "damage": "21",
     "speed": "21~23",
     "on_block": "-14~-12",
     "on_hit": "KND",
@@ -185,8 +185,8 @@
     "damage": "13,9,22",
     "speed": "14",
     "on_block": "-9~-8",
-    "on_hit": "CS",
-    "on_ch": "CS",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "d/f+1, b",
@@ -374,8 +374,8 @@
     "damage": "12,21",
     "speed": "12~13",
     "on_block": "-5~-4",
-    "on_hit": "KND",
-    "on_ch": "KND",
+    "on_hit": "+8k~+9k",
+    "on_ch": "+8k~+9k",
     "notes": "Tail spin"
   }, {
     "notation": "b+2",
@@ -391,8 +391,8 @@
     "hit_level": "m, m",
     "damage": "22,22",
     "speed": "18",
-    "on_block": "-8",
-    "on_hit": "+2s",
+    "on_block": "-12",
+    "on_hit": "0s",
     "on_ch": "KND",
     "notes": null
   }, {
@@ -438,17 +438,17 @@
     "speed": "20~21",
     "on_block": "-9~-8",
     "on_hit": "KND",
-    "on_ch": "CS 13~14",
+    "on_ch": "CS",
     "notes": "Homing"
   }, {
     "notation": "u/f+2",
     "hit_level": "m (TJ)",
     "damage": "35",
-    "speed": "39~40a",
-    "on_block": "+8~+9",
+    "speed": "34a js8",
+    "on_block": "+9",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": null
+    "notes": "Wall bounce"
   }, {
     "notation": "u/b+3",
     "hit_level": "m (TJ)",
@@ -624,7 +624,7 @@
     "notation": "WS+2",
     "hit_level": "m",
     "damage": "20",
-    "speed": "16~17",
+    "speed": "15~16",
     "on_block": "-14~-13",
     "on_hit": "Launch",
     "on_ch": "Launch",
@@ -749,7 +749,7 @@
   }, {
     "notation": "qcf+2 (Close)",
     "hit_level": "m",
-    "damage": "60",
+    "damage": "54",
     "speed": "13~14 (15~)",
     "on_block": "-17~-16",
     "on_hit": "KND",
@@ -758,7 +758,7 @@
   }, {
     "notation": "qcf+2",
     "hit_level": "m",
-    "damage": "40",
+    "damage": "36",
     "speed": "13~14 (15~)",
     "on_block": "-17~-16",
     "on_hit": "KND",
@@ -848,7 +848,7 @@
   }, {
     "notation": "qcb+3, 2, 3",
     "hit_level": "l, m, l",
-    "damage": "18,27,20",
+    "damage": "14,20,14",
     "speed": "18~19 (20~) 1~",
     "on_block": "-13~-12",
     "on_hit": "0~+1",
@@ -859,7 +859,7 @@
     "hit_level": "h",
     "damage": "28",
     "speed": "15~16 (17~)",
-    "on_block": "+3~+4",
+    "on_block": "+1~+2",
     "on_hit": "KND",
     "on_ch": "CS",
     "notes": "Homing, Tail spin"
@@ -1122,7 +1122,7 @@
     "speed": "20~21",
     "on_block": "-9~-8",
     "on_hit": "KND",
-    "on_ch": "CS 13~14",
+    "on_ch": "CS",
     "notes": "Homing"
   }, {
     "notation": "u+2",
@@ -1137,11 +1137,11 @@
     "notation": "u/f+2",
     "hit_level": "m (TJ)",
     "damage": "35",
-    "speed": "39~40a",
-    "on_block": "+8~+9",
+    "speed": "34a js8",
+    "on_block": "+9",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": null
+    "notes": "Wall bounce"
   }, {
     "notation": "u/b+3",
     "hit_level": "m (TJ)",
@@ -1218,7 +1218,7 @@
     "notation": "WS+2",
     "hit_level": "m",
     "damage": "20",
-    "speed": "16~17",
+    "speed": "15~16",
     "on_block": "-14~-13",
     "on_hit": "Launch",
     "on_ch": "Launch",

@@ -52,7 +52,7 @@
     "on_block": "-8",
     "on_hit": "+8",
     "on_ch": "KND",
-    "notes": null
+    "notes": "Homing"
   }, {
     "notation": "b+3",
     "hit_level": "h",
@@ -124,7 +124,7 @@
     "on_block": "-13?",
     "on_hit": "-1?",
     "on_ch": "-1?",
-    "notes": null
+    "notes": "Wall bounce"
   }, {
     "notation": "f, F+3",
     "hit_level": "m",
@@ -301,8 +301,8 @@
     "hit_level": "m",
     "damage": "17",
     "speed": "13",
-    "on_block": "-7",
-    "on_hit": "+5",
+    "on_block": "-10",
+    "on_hit": "+2",
     "on_ch": "KND",
     "notes": null
   }, {
