@@ -200,7 +200,7 @@
   }, {
     "notation": "4, 4",
     "hit_level": "h, m (TJ)",
-    "damage": "15,28",
+    "damage": "15,25",
     "speed": "s js22~",
     "on_block": "+3~+4",
     "on_hit": "KND",
@@ -211,7 +211,7 @@
     "hit_level": "m",
     "damage": "25",
     "speed": "21~22 pc8~20",
-    "on_block": "-12~-11",
+    "on_block": "-14",
     "on_hit": "KND",
     "on_ch": "TUKD",
     "notes": "Power crush"
@@ -419,7 +419,7 @@
     "damage": "17",
     "speed": "18~19s cs6~",
     "on_block": "-13~-12",
-    "on_hit": "0~+1s",
+    "on_hit": "-1",
     "on_ch": "+13~+14g",
     "notes": null
   }, {
@@ -713,11 +713,11 @@
   }, {
     "notation": "u/f+1",
     "hit_level": "h",
-    "damage": "18",
-    "speed": "16",
-    "on_block": "-7",
-    "on_hit": "+9",
-    "on_ch": "uKZD",
+    "damage": "20",
+    "speed": "15",
+    "on_block": "-9",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "u or u/f+2",
@@ -767,7 +767,7 @@
   }, {
     "notation": "u/f+3+4",
     "hit_level": "h(Throw)?,  (TJ)",
-    "damage": "36",
+    "damage": "42",
     "speed": "38~42(d)~js20~",
     "on_block": null,
     "on_hit": "Throw(KND)",
@@ -841,7 +841,7 @@
     "hit_level": "l(, (throw))",
     "damage": "20(,20)",
     "speed": "17 cs12~ ar10~",
-    "on_block": "-14",
+    "on_block": "-15",
     "on_hit": "Throw(KND)",
     "on_ch": "Throw(KND)",
     "notes": null
@@ -850,7 +850,7 @@
     "hit_level": "l",
     "damage": "20",
     "speed": "17~18 cs12~ ar10~",
-    "on_block": "-14~-13",
+    "on_block": "-15~-14",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null
@@ -898,7 +898,7 @@
     "on_block": "-9~-8",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": null
+    "notes": "Wall bounce"
   }, {
     "notation": "WS+4",
     "hit_level": "m",
@@ -1036,10 +1036,10 @@
     "notes": null
   }, {
     "notation": "qcf+2",
-    "hit_level": "m?",
+    "hit_level": "m",
     "damage": "25",
     "speed": "18~19 (20~)",
-    "on_block": "-13~-12",
+    "on_block": "-14",
     "on_hit": "Launch (JG?)",
     "on_ch": "Launch (JG?)",
     "notes": null
@@ -1048,8 +1048,8 @@
     "hit_level": "l (TC)",
     "damage": "17(,20)",
     "speed": "17s(19~) cs12~ ar10~",
-    "on_block": "-14",
-    "on_hit": "-5",
+    "on_block": "-15",
+    "on_hit": "-6",
     "on_ch": "Throw(KND)",
     "notes": null
   }, {
@@ -1352,11 +1352,11 @@
   }, {
     "notation": "u/f+1",
     "hit_level": "h",
-    "damage": "18",
-    "speed": "16",
-    "on_block": "-7",
-    "on_hit": "+9",
-    "on_ch": "uKZD",
+    "damage": "20",
+    "speed": "15",
+    "on_block": "-9",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "u/b+2",
@@ -1465,7 +1465,7 @@
     "on_block": "-9~-8",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": null
+    "notes": "Wall bounce"
   }, {
     "notation": "WS+4",
     "hit_level": "m",

@@ -16,7 +16,7 @@
     "on_block": "+5~+6",
     "on_hit": "Launch",
     "on_ch": "Launch",
-    "notes": "Rage art"
+    "notes": "Rage drive"
   }, {
     "notation": "in rage f, n, d, d/f+1+4, u/f (Only when hit )",
     "hit_level": "m, (throw), (DVK)",
@@ -25,7 +25,7 @@
     "on_block": null,
     "on_hit": "Throw(KND)",
     "on_ch": "Throw(KND)",
-    "notes": "Rage art"
+    "notes": "Rage drive"
   }, {
     "notation": "1",
     "hit_level": "h",
@@ -97,7 +97,7 @@
     "on_block": "-3",
     "on_hit": "+8",
     "on_ch": "+8",
-    "notes": "Rage art"
+    "notes": null
   }, {
     "notation": "2, 2",
     "hit_level": "h, m",
@@ -193,10 +193,10 @@
     "hit_level": "m",
     "damage": "20",
     "speed": "25",
-    "on_block": "-16",
-    "on_hit": "CS 10",
-    "on_ch": "CS 10",
-    "notes": null
+    "on_block": "-9",
+    "on_hit": "KND",
+    "on_ch": "KND",
+    "notes": "Wall bounce"
   }, {
     "notation": "d/f+1",
     "hit_level": "m",
@@ -211,9 +211,9 @@
     "hit_level": "m, m",
     "damage": "11,20",
     "speed": "15~16s",
-    "on_block": "-11s",
-    "on_hit": "+9s",
-    "on_ch": "+9s",
+    "on_block": "-13s",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "d/f+1, 4",
@@ -301,9 +301,9 @@
     "hit_level": "m",
     "damage": "20",
     "speed": "20s",
-    "on_block": "-6s",
-    "on_hit": "+9s",
-    "on_ch": "+9s",
+    "on_block": "-9s",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "d/b+3",
@@ -427,14 +427,14 @@
     "hit_level": "m",
     "damage": "21",
     "speed": "22",
-    "on_block": "-8",
+    "on_block": "-12",
     "on_hit": "+5",
     "on_ch": "CS(13)",
     "notes": null
   }, {
     "notation": "b+1+4",
     "hit_level": "!",
-    "damage": "30",
+    "damage": "25",
     "speed": "43~44 ar43~",
     "on_block": "Launch",
     "on_hit": "Launch",
@@ -565,7 +565,7 @@
     "on_block": "-5~-3",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": "Homing"
+    "notes": "Homing, Tail spin"
   }, {
     "notation": "WS+4",
     "hit_level": "m",
@@ -757,13 +757,13 @@
     "notes": null
   }, {
     "notation": "in rage u/b+1+2 (to DVK)",
-    "hit_level": "(DVK)",
+    "hit_level": "m (DVK)",
     "damage": null,
-    "speed": "16(19~)",
-    "on_block": null,
-    "on_hit": null,
-    "on_ch": null,
-    "notes": "Rage art"
+    "speed": "20 pc5~",
+    "on_block": "-6",
+    "on_hit": "KND",
+    "on_ch": "KND",
+    "notes": null
   }, {
     "notation": "DVK u/b+1+2",
     "hit_level": "(Special)",
@@ -848,9 +848,9 @@
   }, {
     "notation": "DVK f, F+2",
     "hit_level": "m",
-    "damage": "20(,3,4,5)",
+    "damage": "20, 15",
     "speed": "16(17~)",
-    "on_block": "-13",
+    "on_block": "-12",
     "on_hit": "Throw(CS)",
     "on_ch": "Throw(CS)",
     "notes": null
@@ -1120,9 +1120,9 @@
     "hit_level": "m",
     "damage": "20",
     "speed": "20s",
-    "on_block": "-6s",
-    "on_hit": "+9s",
-    "on_ch": "+9s",
+    "on_block": "-9s",
+    "on_hit": "KND",
+    "on_ch": "KND",
     "notes": null
   }, {
     "notation": "d/b+3",
@@ -1267,7 +1267,7 @@
     "on_block": "-5~-3",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": "Homing"
+    "notes": "Homing, Tail spin"
   }, {
     "notation": "WS+4",
     "hit_level": "m",

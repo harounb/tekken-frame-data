@@ -48,7 +48,7 @@
     "notation": "f+2",
     "hit_level": "h",
     "damage": "12",
-    "speed": "13~14",
+    "speed": "12~13",
     "on_block": "-9~-8",
     "on_hit": "-1~0",
     "on_ch": "-1~0",
@@ -169,7 +169,7 @@
     "on_block": "-9~-6",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": "Tail spin"
+    "notes": "Tail spin, Homing"
   }, {
     "notation": "d/b+4",
     "hit_level": "l (TC)",
@@ -236,7 +236,7 @@
   }, {
     "notation": "u/b or u+3",
     "hit_level": "m (TJ)",
-    "damage": "25",
+    "damage": "26",
     "speed": "22~23 js16~",
     "on_block": "-16~-15",
     "on_hit": "Launch (JG?)",
@@ -272,8 +272,8 @@
   }, {
     "notation": "u/f+4",
     "hit_level": "m (TJ)",
-    "damage": "18",
-    "speed": "28~32 js12~",
+    "damage": "12",
+    "speed": "25~29 js9~",
     "on_block": "-12~-8",
     "on_hit": "+1~+5s",
     "on_ch": "+1~+5s",

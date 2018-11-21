@@ -240,7 +240,7 @@
     "speed": "20~21",
     "on_block": "-9~-8",
     "on_hit": "KND",
-    "on_ch": "CS 13~14",
+    "on_ch": "CS",
     "notes": "Homing"
   }, {
     "notation": "u+2",
@@ -255,11 +255,11 @@
     "notation": "u/f+2",
     "hit_level": "m (TJ)",
     "damage": "35",
-    "speed": "39~40a",
-    "on_block": "+8~+9",
+    "speed": "34a js8",
+    "on_block": "+9",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": null
+    "notes": "Wall bounce"
   }, {
     "notation": "u/b+3",
     "hit_level": "m (TJ)",
@@ -336,7 +336,7 @@
     "notation": "WS+2",
     "hit_level": "m",
     "damage": "20",
-    "speed": "16~17",
+    "speed": "15~16",
     "on_block": "-14~-13",
     "on_hit": "Launch",
     "on_ch": "Launch",

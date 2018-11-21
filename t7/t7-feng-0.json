@@ -65,7 +65,7 @@
   }, {
     "notation": "f+4",
     "hit_level": "h (TJ)",
-    "damage": "20",
+    "damage": "15",
     "speed": "18~19",
     "on_block": "-9~-8",
     "on_hit": "CS",
@@ -218,7 +218,7 @@
   }, {
     "notation": "b+4",
     "hit_level": "m",
-    "damage": "20",
+    "damage": "14",
     "speed": "12",
     "on_block": "-9",
     "on_hit": "+2",
@@ -454,14 +454,14 @@
     "hit_level": "m",
     "damage": "30",
     "speed": "32~33",
-    "on_block": "+4~+5s",
+    "on_block": "+8~+9s",
     "on_hit": "+8~+9s",
-    "on_ch": "KND",
+    "on_ch": "JG",
     "notes": null
   }, {
     "notation": "BT 4",
     "hit_level": "h",
-    "damage": "25",
+    "damage": "18",
     "speed": "10",
     "on_block": "-8",
     "on_hit": "KND",

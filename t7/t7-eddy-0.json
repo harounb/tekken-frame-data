@@ -192,10 +192,10 @@
     "notation": "b+2",
     "hit_level": "m",
     "damage": "14",
-    "speed": "15",
-    "on_block": "-10",
-    "on_hit": "+4",
-    "on_ch": "+4",
+    "speed": "14",
+    "on_block": "-11",
+    "on_hit": "+3",
+    "on_ch": "+3",
     "notes": null
   }, {
     "notation": "b+3",
@@ -236,12 +236,12 @@
   }, {
     "notation": "u/b+3",
     "hit_level": "m",
-    "damage": "30",
-    "speed": "30~34",
-    "on_block": "+3~+7s",
-    "on_hit": "+5~+9s",
-    "on_ch": "KND",
-    "notes": null
+    "damage": "31",
+    "speed": "30",
+    "on_block": "+-2~+2s",
+    "on_hit": "+6~+10s",
+    "on_ch": "+6~+10s",
+    "notes": "Power crush"
   }, {
     "notation": "u+3",
     "hit_level": "m (TJ)",

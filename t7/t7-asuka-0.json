@@ -168,7 +168,7 @@
     "speed": "21",
     "on_block": "-12",
     "on_hit": "+4s",
-    "on_ch": "+4s",
+    "on_ch": "+14kg",
     "notes": null
   }, {
     "notation": "d/b+4",
@@ -282,7 +282,7 @@
     "notation": "WS+1",
     "hit_level": "m",
     "damage": "12",
-    "speed": "15~16",
+    "speed": "114",
     "on_block": "-7~-6",
     "on_hit": "+4~+5",
     "on_ch": "+4~+5",
@@ -300,7 +300,7 @@
     "notation": "WS+3",
     "hit_level": "m",
     "damage": "20",
-    "speed": "19~20 js18~",
+    "speed": "18 js18~",
     "on_block": "-16~-15",
     "on_hit": "Launch (JG?)",
     "on_ch": "Launch (JG?)",

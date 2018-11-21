@@ -219,8 +219,8 @@
     "notation": "f+1+2",
     "hit_level": "m",
     "damage": "24",
-    "speed": "6",
-    "on_block": "-25",
+    "speed": "16",
+    "on_block": "-19",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": null
@@ -229,7 +229,7 @@
     "hit_level": "m",
     "damage": "20",
     "speed": "23",
-    "on_block": "-14",
+    "on_block": "-13",
     "on_hit": "KND",
     "on_ch": "KND",
     "notes": "Power Crush"
@@ -292,9 +292,9 @@
     "hit_level": "m,h",
     "damage": "12,17",
     "speed": "14",
-    "on_block": "-4",
-    "on_hit": "+7",
-    "on_ch": "+7",
+    "on_block": "-2",
+    "on_hit": "+8",
+    "on_ch": "+8",
     "notes": null
   }, {
     "notation": "d/f+4, 2, 4",
@@ -304,7 +304,7 @@
     "on_block": "-5",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": "Tail Spoin"
+    "notes": "Tail Spin"
   }, {
     "notation": "d/f+4, 2, 2",
     "hit_level": "m,h,m",
@@ -326,7 +326,7 @@
   }, {
     "notation": "d+1",
     "hit_level": "m,m",
-    "damage": "7,10",
+    "damage": "10,10",
     "speed": "17",
     "on_block": "-3",
     "on_hit": "+4",
@@ -392,17 +392,17 @@
     "damage": "7",
     "speed": "15",
     "on_block": "-6",
-    "on_hit": "0",
-    "on_ch": "0",
+    "on_hit": "+3",
+    "on_ch": "+3",
     "notes": null
   }, {
     "notation": "d/b+1, 1+2",
     "hit_level": "m,m,m",
     "damage": "7,7,10",
     "speed": "15",
-    "on_block": "-7",
-    "on_hit": "+4",
-    "on_ch": "+4",
+    "on_block": "-5",
+    "on_hit": "+6",
+    "on_ch": "+6",
     "notes": null
   }, {
     "notation": "d/b+1~F",
@@ -419,7 +419,7 @@
     "damage": "23",
     "speed": "24",
     "on_block": "-19",
-    "on_hit": "+4s",
+    "on_hit": "KND",
     "on_ch": "KND",
     "notes": null
   }, {
@@ -427,9 +427,9 @@
     "hit_level": "l",
     "damage": "9",
     "speed": "17",
-    "on_block": "-13",
-    "on_hit": "-2",
-    "on_ch": "-2",
+    "on_block": "-12",
+    "on_hit": "-1",
+    "on_ch": "-1",
     "notes": null
   }, {
     "notation": "d/b+1+2",
@@ -473,8 +473,8 @@
     "damage": "13",
     "speed": "15",
     "on_block": "-9",
-    "on_hit": "+4",
-    "on_ch": "+4",
+    "on_hit": "+6",
+    "on_ch": "+6",
     "notes": null
   }, {
     "notation": "b+2 when hit 1+2",
@@ -482,8 +482,8 @@
     "damage": "13,6,14",
     "speed": "15",
     "on_block": "~",
-    "on_hit": "+4",
-    "on_ch": "+4",
+    "on_hit": "+6",
+    "on_ch": "+6",
     "notes": null
   }, {
     "notation": "b+3",
@@ -516,10 +516,10 @@
     "notation": "b+4",
     "hit_level": "h",
     "damage": "17",
-    "speed": "20",
+    "speed": "18",
     "on_block": "-7",
-    "on_hit": "+9",
-    "on_ch": "+9",
+    "on_hit": "+7",
+    "on_ch": "+7",
     "notes": null
   }, {
     "notation": "b+4, 1+2",
@@ -551,7 +551,7 @@
   }, {
     "notation": "u/b or u or u/f+1",
     "hit_level": "h",
-    "damage": "15",
+    "damage": "17",
     "speed": "14",
     "on_block": "-4",
     "on_hit": "+8",
@@ -749,7 +749,7 @@
   }, {
     "notation": "WS+1, 2",
     "hit_level": "m,m",
-    "damage": "10,20",
+    "damage": "10,23",
     "speed": "13",
     "on_block": "-13",
     "on_hit": "+2",
@@ -758,11 +758,11 @@
   }, {
     "notation": "ws+2",
     "hit_level": "m",
-    "damage": "13",
+    "damage": "15",
     "speed": "15",
-    "on_block": "-13",
-    "on_hit": "-7",
-    "on_ch": "-7",
+    "on_block": "-9",
+    "on_hit": "-3",
+    "on_ch": "-3",
     "notes": null
   }, {
     "notation": "ws+2, 2",
@@ -806,9 +806,9 @@
     "damage": "17",
     "speed": "20 cs",
     "on_block": "-13",
-    "on_hit": "+3",
-    "on_ch": "+13",
-    "notes": null
+    "on_hit": "+4s",
+    "on_ch": "+13g",
+    "notes": "Homing"
   }, {
     "notation": "1+2+3+4",
     "hit_level": null,
@@ -893,12 +893,12 @@
   }, {
     "notation": "f+3+4, 1",
     "hit_level": "m",
-    "damage": "20",
+    "damage": "24",
     "speed": "18",
-    "on_block": "-14",
+    "on_block": "-13",
     "on_hit": "KND",
     "on_ch": "KND",
-    "notes": null
+    "notes": "Power crush, Wall bounce"
   }, {
     "notation": "f+3+4, 3+4",
     "hit_level": "l",
@@ -925,15 +925,6 @@
     "on_block": "+2",
     "on_hit": "throw",
     "on_ch": "throw",
-    "notes": null
-  }, {
-    "notation": null,
-    "hit_level": null,
-    "damage": null,
-    "speed": null,
-    "on_block": null,
-    "on_hit": null,
-    "on_ch": null,
     "notes": null
   }],
   "metadata": {

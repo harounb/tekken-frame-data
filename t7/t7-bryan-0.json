@@ -182,11 +182,11 @@
   }, {
     "notation": "b+1",
     "hit_level": "m",
-    "damage": "24",
-    "speed": "20~21",
-    "on_block": "+3~+4",
-    "on_hit": "+5~+6s",
-    "on_ch": "KND",
+    "damage": "21",
+    "speed": "20",
+    "on_block": "+3",
+    "on_hit": "+7s",
+    "on_ch": "JG",
     "notes": null
   }, {
     "notation": "b+2",
@@ -310,9 +310,9 @@
     "hit_level": "m(GUP)",
     "damage": "18",
     "speed": "19",
-    "on_block": "-8",
-    "on_hit": "+3",
-    "on_ch": "+3",
+    "on_block": "-10",
+    "on_hit": "+1",
+    "on_ch": "+1",
     "notes": null
   }, {
     "notation": "WS+3",
