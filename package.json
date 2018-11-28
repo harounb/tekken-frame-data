@@ -4,8 +4,8 @@
   "description": "TTT2 & T7 Frame Data ripped from rbnorway",
   "main": "index.js",
   "scripts": {
-    "test": "gulp ci",
-    "format": "prettier {ttt2,t7}/*.json --write"
+    "format": "prettier {ttt2,t7}/*.json --write",
+    "test": "npx ajv -s schema/t7-v0.4.json -d \"t7/*.json\""
   },
   "repository": {
     "type": "git",
@@ -21,11 +21,10 @@
   },
   "homepage": "https://github.com/tekken-london/tekken-frame-data#readme",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-jsonlint": "^1.1.2",
     "husky": "^1.2.0",
     "prettier": "1.15.3",
-    "pretty-quick": "^1.8.0"
+    "pretty-quick": "^1.8.0",
+    "ajv-cli": "^3.0.0"
   },
   "husky": {
     "hooks": {
