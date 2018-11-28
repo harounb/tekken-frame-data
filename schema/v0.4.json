@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "t7-v0.4.json",
+  "$id": "v0.4.json",
   "title": "Tekken 7 Character Data v0.4",
   "description": "Frame data for a Tekken 7 character",
   "type": "object",
