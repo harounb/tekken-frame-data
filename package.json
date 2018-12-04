@@ -5,13 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "gulp ci",
-    "format": "gulp format"
+    "format": "prettier {ttt2,t7}/*.json --write"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tekken-london/tekken-frame-data.git"
   },
-  "keywords": ["tekken"],
+  "keywords": [
+    "tekken"
+  ],
   "author": "Haroun Butt <dekuharoun@gmail.com> (https://github.com/harounb/)",
   "license": "MIT",
   "bugs": {
@@ -20,8 +22,14 @@
   "homepage": "https://github.com/tekken-london/tekken-frame-data#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-beautify": "^2.0.0",
-    "gulp-diff": "^1.0.0",
-    "gulp-jsonlint": "^1.1.2"
+    "gulp-jsonlint": "^1.1.2",
+    "husky": "^1.2.0",
+    "prettier": "1.15.3",
+    "pretty-quick": "^1.8.0"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "pretty-quick --staged"
+    }
   }
 }
