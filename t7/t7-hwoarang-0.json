@@ -103,12 +103,12 @@
     {
       "notation": "d/f+3",
       "hit_level": "m",
-      "damage": "17",
+      "damage": "12",
       "speed": "22~23",
-      "on_block": "-12~-11",
-      "on_hit": "+1~+2",
-      "on_ch": "CS",
-      "notes": null
+      "on_block": "-14~-13",
+      "on_hit": "-4~-3",
+      "on_ch": "-4~-3",
+      "notes": "Power crush"
     },
     {
       "notation": "d/f+4",
@@ -233,7 +233,7 @@
     {
       "notation": "b+3",
       "hit_level": "m",
-      "damage": "20",
+      "damage": "17",
       "speed": "16~18",
       "on_block": "-19~-17",
       "on_hit": "Launch (JG?)",

@@ -7,7 +7,8 @@
       "speed": "10",
       "on_block": "+1",
       "on_hit": "+8",
-      "on_ch": "+8"
+      "on_ch": "+8",
+      "notes": null
     },
     {
       "notation": "1, 1",
@@ -16,7 +17,8 @@
       "speed": "10",
       "on_block": "-1",
       "on_hit": "+8",
-      "on_ch": "+8"
+      "on_ch": "+8",
+      "notes": null
     },
     {
       "notation": "1, 1, 2",
@@ -25,7 +27,8 @@
       "speed": "10",
       "on_block": "-17",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "1, 2",
@@ -34,7 +37,8 @@
       "speed": "10",
       "on_block": "-1",
       "on_hit": "+7",
-      "on_ch": "+7"
+      "on_ch": "+7",
+      "notes": null
     },
     {
       "notation": "1, 2, 2",
@@ -43,7 +47,8 @@
       "speed": "10",
       "on_block": "-12",
       "on_hit": "+4",
-      "on_ch": "+4"
+      "on_ch": "+4",
+      "notes": null
     },
     {
       "notation": "1, 2, 4",
@@ -52,7 +57,8 @@
       "speed": "10",
       "on_block": "-14",
       "on_hit": "-3",
-      "on_ch": "0 OC"
+      "on_ch": "0 OC",
+      "notes": null
     },
     {
       "notation": "1, 2, 4, 3",
@@ -61,7 +67,8 @@
       "speed": "10",
       "on_block": "-2",
       "on_hit": "KND",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "2",
@@ -70,7 +77,8 @@
       "speed": "12",
       "on_block": "-3",
       "on_hit": "+8",
-      "on_ch": "+8"
+      "on_ch": "+8",
+      "notes": null
     },
     {
       "notation": "2, 2",
@@ -79,7 +87,8 @@
       "speed": "12",
       "on_block": "-10",
       "on_hit": "+6",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "2, 4",
@@ -88,7 +97,8 @@
       "speed": "12",
       "on_block": "-9",
       "on_hit": "+4",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "3",
@@ -97,7 +107,8 @@
       "speed": "14",
       "on_block": "-8",
       "on_hit": "+4",
-      "on_ch": "+4"
+      "on_ch": "+4",
+      "notes": null
     },
     {
       "notation": "3, 1",
@@ -106,7 +117,8 @@
       "speed": "14",
       "on_block": "-1",
       "on_hit": "+7",
-      "on_ch": "+7"
+      "on_ch": "+7",
+      "notes": null
     },
     {
       "notation": "3, 1, 4",
@@ -115,7 +127,8 @@
       "speed": "14",
       "on_block": "-6",
       "on_hit": "+8",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "4",
@@ -124,7 +137,8 @@
       "speed": "12",
       "on_block": "-9",
       "on_hit": "+2",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "4~3",
@@ -133,7 +147,8 @@
       "speed": "31,35~36 RG (32~)",
       "on_block": "-11~-10",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "1+2",
@@ -142,7 +157,8 @@
       "speed": "12,28",
       "on_block": "-14",
       "on_hit": "CS",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "3+4",
@@ -151,7 +167,8 @@
       "speed": "14",
       "on_block": "-8",
       "on_hit": "+4",
-      "on_ch": "+4"
+      "on_ch": "+4",
+      "notes": null
     },
     {
       "notation": "f+2",
@@ -160,7 +177,8 @@
       "speed": "20",
       "on_block": "-12",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f+3",
@@ -169,7 +187,8 @@
       "speed": "19",
       "on_block": "-13",
       "on_hit": "+5",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "f+4",
@@ -178,7 +197,8 @@
       "speed": "19~20",
       "on_block": "+3~+4 OC",
       "on_hit": "+7~+8 OC",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f+1+2",
@@ -187,7 +207,8 @@
       "speed": "25",
       "on_block": "-16",
       "on_hit": "CS",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "f+1+2, 2",
@@ -196,7 +217,8 @@
       "speed": "25",
       "on_block": "-13",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "d/f+1",
@@ -205,7 +227,8 @@
       "speed": "15~16",
       "on_block": "-7~-6",
       "on_hit": "+9~+10",
-      "on_ch": "+9~+10"
+      "on_ch": "+9~+10",
+      "notes": null
     },
     {
       "notation": "d/f+1, 2",
@@ -214,7 +237,8 @@
       "speed": "15~16",
       "on_block": "+1 OC",
       "on_hit": "+2 OC(OB)",
-      "on_ch": "+5(OB)"
+      "on_ch": "+5(OB)",
+      "notes": null
     },
     {
       "notation": "d/f+1, 4",
@@ -223,7 +247,8 @@
       "speed": "15~16",
       "on_block": "-7",
       "on_hit": "KND(Launch)",
-      "on_ch": "KND(Launch)"
+      "on_ch": "KND(Launch)",
+      "notes": null
     },
     {
       "notation": "d/f+1, f+2",
@@ -232,7 +257,8 @@
       "speed": "15~16",
       "on_block": "-12",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "d/f+2",
@@ -241,7 +267,8 @@
       "speed": "14",
       "on_block": "-12",
       "on_hit": "+5",
-      "on_ch": "CS(13)"
+      "on_ch": "CS(13)",
+      "notes": "Homing"
     },
     {
       "notation": "d/f+3",
@@ -250,7 +277,8 @@
       "speed": "18~19",
       "on_block": "-7~-6",
       "on_hit": "+9~+10",
-      "on_ch": "+9~+10"
+      "on_ch": "+9~+10",
+      "notes": null
     },
     {
       "notation": "d/f+3, 2",
@@ -259,7 +287,8 @@
       "speed": "18~19",
       "on_block": "-11",
       "on_hit": "+5",
-      "on_ch": "+5"
+      "on_ch": "+5",
+      "notes": null
     },
     {
       "notation": "d/f+3, 2, 1",
@@ -268,7 +297,8 @@
       "speed": "18~19",
       "on_block": "-19",
       "on_hit": "KND",
-      "on_ch": "+24"
+      "on_ch": "+24",
+      "notes": null
     },
     {
       "notation": "d/f+4",
@@ -277,7 +307,8 @@
       "speed": "13~14",
       "on_block": "-9~-8",
       "on_hit": "+2~+3",
-      "on_ch": "+2~+3"
+      "on_ch": "+2~+3",
+      "notes": null
     },
     {
       "notation": "d/f+4, 4",
@@ -286,7 +317,8 @@
       "speed": "13~14",
       "on_block": "-15~-14",
       "on_hit": "-4~-3 OC",
-      "on_ch": "-4~-3 OC"
+      "on_ch": "-4~-3 OC",
+      "notes": null
     },
     {
       "notation": "d+1+2",
@@ -295,7 +327,8 @@
       "speed": "25 RC",
       "on_block": "-16",
       "on_hit": "+2 OC",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "d/b+2",
@@ -304,16 +337,18 @@
       "speed": "20 RC",
       "on_block": "0 OC",
       "on_hit": "+9 OC",
-      "on_ch": "+9 OC"
+      "on_ch": "+9 OC",
+      "notes": null
     },
     {
       "notation": "d/b+3",
       "hit_level": "l (TC)",
       "damage": "18",
-      "speed": "19 RC",
-      "on_block": "-12",
-      "on_hit": "-1",
-      "on_ch": "+7 OC"
+      "speed": "19~20 RC",
+      "on_block": "-12~-11",
+      "on_hit": "-1~0",
+      "on_ch": "+7~+8 OC",
+      "notes": null
     },
     {
       "notation": "d/b+4",
@@ -322,7 +357,8 @@
       "speed": "20~21",
       "on_block": "-12~-11",
       "on_hit": "+2~+3",
-      "on_ch": "+5~+6 OC"
+      "on_ch": "+5~+6 OC",
+      "notes": null
     },
     {
       "notation": "b+1",
@@ -331,7 +367,8 @@
       "speed": "11~12",
       "on_block": "-10~-9",
       "on_hit": "+1~+2",
-      "on_ch": "+1~+2"
+      "on_ch": "+1~+2",
+      "notes": null
     },
     {
       "notation": "b+1, 2",
@@ -340,7 +377,8 @@
       "speed": "11~12",
       "on_block": "-15",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "b+2",
@@ -349,7 +387,8 @@
       "speed": "14",
       "on_block": "-7",
       "on_hit": "+4",
-      "on_ch": "+4"
+      "on_ch": "+4",
+      "notes": null
     },
     {
       "notation": "b+2, 4",
@@ -358,7 +397,8 @@
       "speed": "14",
       "on_block": "-3",
       "on_hit": "+8",
-      "on_ch": "+8"
+      "on_ch": "+8",
+      "notes": null
     },
     {
       "notation": "b+2, 4, 1",
@@ -367,7 +407,8 @@
       "speed": "14",
       "on_block": "-14~-13",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "b+3",
@@ -376,7 +417,8 @@
       "speed": "18",
       "on_block": "-8",
       "on_hit": "+3",
-      "on_ch": "+3"
+      "on_ch": "+3",
+      "notes": null
     },
     {
       "notation": "b+3, 1",
@@ -385,7 +427,8 @@
       "speed": "18",
       "on_block": "0",
       "on_hit": "+6",
-      "on_ch": "+6"
+      "on_ch": "+6",
+      "notes": null
     },
     {
       "notation": "b+3, 1, 4",
@@ -394,7 +437,8 @@
       "speed": "18",
       "on_block": "-10",
       "on_hit": "+7",
-      "on_ch": "+7"
+      "on_ch": "+7",
+      "notes": null
     },
     {
       "notation": "b+3, 1, 4, 1",
@@ -403,7 +447,8 @@
       "speed": "18",
       "on_block": "-14",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "b+3, 1, 4, 3",
@@ -412,7 +457,8 @@
       "speed": "18",
       "on_block": "-13",
       "on_hit": "+1",
-      "on_ch": "+1"
+      "on_ch": "+1",
+      "notes": null
     },
     {
       "notation": "b+4",
@@ -421,7 +467,8 @@
       "speed": "15",
       "on_block": "-10",
       "on_hit": "+1",
-      "on_ch": "+1"
+      "on_ch": "+1",
+      "notes": null
     },
     {
       "notation": "b+4, 1",
@@ -430,7 +477,8 @@
       "speed": "15",
       "on_block": "-12",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "b+1+2",
@@ -439,7 +487,8 @@
       "speed": "22",
       "on_block": "-9",
       "on_hit": "+4",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "b+1+4",
@@ -448,7 +497,8 @@
       "speed": "43",
       "on_block": "Launch",
       "on_hit": "Launch",
-      "on_ch": "Launch"
+      "on_ch": "Launch",
+      "notes": null
     },
     {
       "notation": "B+1+4",
@@ -457,7 +507,8 @@
       "speed": "63",
       "on_block": "Launch",
       "on_hit": "Launch",
-      "on_ch": "Launch"
+      "on_ch": "Launch",
+      "notes": null
     },
     {
       "notation": "u/b or u or u/f+2",
@@ -466,7 +517,8 @@
       "speed": "17",
       "on_block": "-8",
       "on_hit": "+3",
-      "on_ch": "+3"
+      "on_ch": "+3",
+      "notes": null
     },
     {
       "notation": "u/f+2, 2",
@@ -475,7 +527,8 @@
       "speed": "17 RC",
       "on_block": "-16",
       "on_hit": "+2 OC",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "u/f+2, 2, B (Cancel)",
@@ -484,7 +537,8 @@
       "speed": "17 RC",
       "on_block": "-19",
       "on_hit": "-8",
-      "on_ch": "-8"
+      "on_ch": "-8",
+      "notes": null
     },
     {
       "notation": "u or u/f+3",
@@ -493,7 +547,8 @@
       "speed": "19",
       "on_block": "-9",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "u or u/f+4",
@@ -502,7 +557,8 @@
       "speed": "25",
       "on_block": "-12",
       "on_hit": "-1",
-      "on_ch": "-1"
+      "on_ch": "-1",
+      "notes": null
     },
     {
       "notation": "u/f+4, 4",
@@ -511,7 +567,8 @@
       "speed": "25",
       "on_block": "-18",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "u/f+4, 4, 4",
@@ -520,7 +577,8 @@
       "speed": "25",
       "on_block": "-18",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "u/f+4, 4, 4, 4",
@@ -529,7 +587,8 @@
       "speed": "25",
       "on_block": "-17",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, F+2",
@@ -538,7 +597,8 @@
       "speed": "13(14~)",
       "on_block": "-11",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, F+3",
@@ -547,16 +607,18 @@
       "speed": "20(21~)",
       "on_block": "-3 OC",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
-      "notation": "f, f, f+3 or WR+3",
+      "notation": "f, f, f+3 or 2+4+3",
       "hit_level": "m (TJ)",
       "damage": "40",
       "speed": "22~23 (25~)",
       "on_block": "+9~+10 GB",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "WS+1",
@@ -565,7 +627,8 @@
       "speed": "13",
       "on_block": "-5",
       "on_hit": "+5",
-      "on_ch": "+5"
+      "on_ch": "+5",
+      "notes": null
     },
     {
       "notation": "WS+1, 2",
@@ -574,7 +637,8 @@
       "speed": "13",
       "on_block": "-13",
       "on_hit": "Launch (JG?)",
-      "on_ch": "Launch (JG?)"
+      "on_ch": "Launch (JG?)",
+      "notes": null
     },
     {
       "notation": "WS+2",
@@ -583,7 +647,8 @@
       "speed": "16",
       "on_block": "-18",
       "on_hit": "CS",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": "Homing"
     },
     {
       "notation": "WS+3",
@@ -592,7 +657,8 @@
       "speed": "21",
       "on_block": "-5",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": "Homing"
     },
     {
       "notation": "WS+4",
@@ -601,7 +667,8 @@
       "speed": "11~12",
       "on_block": "-3~-2",
       "on_hit": "+8~+9",
-      "on_ch": "+8~+9"
+      "on_ch": "+8~+9",
+      "notes": null
     },
     {
       "notation": "WS+4, 4",
@@ -610,16 +677,18 @@
       "speed": "11~12",
       "on_block": "-15~-14",
       "on_hit": "-4~-3 OC",
-      "on_ch": "-4~-3 OC"
+      "on_ch": "-4~-3 OC",
+      "notes": null
     },
     {
       "notation": "FC+d/f+3+4",
       "hit_level": "m (TC)",
       "damage": "32",
-      "speed": "22~23 RC",
-      "on_block": "-11~-10 OC",
+      "speed": "22~23s,a",
+      "on_block": "-11~-10s",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "SS+3",
@@ -628,7 +697,8 @@
       "speed": "23(32~)",
       "on_block": "-10",
       "on_hit": "CS",
-      "on_ch": "CS"
+      "on_ch": "CS",
+      "notes": null
     },
     {
       "notation": "SS+1+2",
@@ -637,7 +707,8 @@
       "speed": "16(25~)",
       "on_block": "-6",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "Opponent Down d+3+4",
@@ -646,7 +717,8 @@
       "speed": "23",
       "on_block": "-12",
       "on_hit": "-1",
-      "on_ch": "-1"
+      "on_ch": "-1",
+      "notes": null
     },
     {
       "notation": "Odd frame f, n (SSL)",
@@ -655,7 +727,8 @@
       "speed": "23",
       "on_block": null,
       "on_hit": null,
-      "on_ch": null
+      "on_ch": null,
+      "notes": null
     },
     {
       "notation": "Even frame f, n (SSR)",
@@ -664,7 +737,8 @@
       "speed": "23",
       "on_block": null,
       "on_hit": null,
-      "on_ch": null
+      "on_ch": null,
+      "notes": null
     },
     {
       "notation": "f, n, D/F+2",
@@ -673,7 +747,8 @@
       "speed": "11(14~)",
       "on_block": "-10",
       "on_hit": "Launch (JG?)",
-      "on_ch": "Launch (JG?)"
+      "on_ch": "Launch (JG?)",
+      "notes": null
     },
     {
       "notation": "f, n, d/f+2",
@@ -682,16 +757,18 @@
       "speed": "11(13~)",
       "on_block": "+5",
       "on_hit": "Launch (JG?)",
-      "on_ch": "Launch (JG?)"
+      "on_ch": "Launch (JG?)",
+      "notes": null
     },
     {
       "notation": "f, n, d/f+1",
       "hit_level": "m",
       "damage": "33",
-      "speed": "23(25~)",
-      "on_block": "-15",
+      "speed": "23~24 (25~)",
+      "on_block": "-15~-14",
       "on_hit": "Launch",
-      "on_ch": "Launch"
+      "on_ch": "Launch",
+      "notes": null
     },
     {
       "notation": "f, n, d/f+3",
@@ -700,7 +777,8 @@
       "speed": "18~27 (20~)",
       "on_block": "-9~0",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, n, d/f+4",
@@ -709,7 +787,8 @@
       "speed": "16(18~)",
       "on_block": "-26",
       "on_hit": "-3 OC (KND)",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, n, d, D/F",
@@ -718,7 +797,8 @@
       "speed": "16(18~)",
       "on_block": null,
       "on_hit": null,
-      "on_ch": null
+      "on_ch": null,
+      "notes": null
     },
     {
       "notation": "f, n, d, D/F+2",
@@ -727,7 +807,8 @@
       "speed": "11(15~)",
       "on_block": "-10",
       "on_hit": "Launch (JG?)",
-      "on_ch": "Launch (JG?)"
+      "on_ch": "Launch (JG?)",
+      "notes": null
     },
     {
       "notation": "f, n, d, d/f+2",
@@ -736,34 +817,38 @@
       "speed": "11(14~)",
       "on_block": "+5",
       "on_hit": "Launch (JG?)",
-      "on_ch": "Launch (JG?)"
+      "on_ch": "Launch (JG?)",
+      "notes": null
     },
     {
       "notation": "f, n, d, d/f+1",
       "hit_level": "m",
       "damage": "33",
-      "speed": "23(26~)",
-      "on_block": "-15",
+      "speed": "23~24 (26~)",
+      "on_block": "-15~-14",
       "on_hit": "Launch",
-      "on_ch": "Launch"
+      "on_ch": "Launch",
+      "notes": null
     },
     {
       "notation": "f, n, d, d/f+1, 3",
       "hit_level": "m, m",
       "damage": "33,20",
-      "speed": "23(26~)",
+      "speed": "23~24 (26~)",
       "on_block": "-14",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, n, d, d/f+1, 4",
       "hit_level": "m, l",
       "damage": "33,16",
-      "speed": "23(26~)",
+      "speed": "23~24 (26~)",
       "on_block": "-14",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, n, d, d/f+3",
@@ -772,7 +857,8 @@
       "speed": "18~27 (21~)",
       "on_block": "-9~0",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, n, d, d/f+4",
@@ -781,7 +867,8 @@
       "speed": "16(19~)",
       "on_block": "-26",
       "on_hit": "-3 OC (KND)",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, n, d, d/f+4 (Far)",
@@ -790,7 +877,8 @@
       "speed": "17(20~)",
       "on_block": "-23",
       "on_hit": "-3 OC (KND)",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, n, d, d/f+4, 4",
@@ -799,7 +887,8 @@
       "speed": "17(20~)",
       "on_block": "-23",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "f, n, d, d/f+4, 1",
@@ -808,7 +897,8 @@
       "speed": "17(20~)",
       "on_block": "-16",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "u/b+1+2 (to DVK)",
@@ -817,7 +907,8 @@
       "speed": "17(20~)",
       "on_block": null,
       "on_hit": null,
-      "on_ch": null
+      "on_ch": null,
+      "notes": null
     },
     {
       "notation": "DVK 1+2",
@@ -826,7 +917,8 @@
       "speed": "42~",
       "on_block": "KND",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "DVK 3+4",
@@ -835,7 +927,8 @@
       "speed": "69 Air~",
       "on_block": "KND",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "DVK 3+4, 3+4",
@@ -844,7 +937,8 @@
       "speed": "113 Air~",
       "on_block": "KND",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "DVK d/f+1",
@@ -853,7 +947,8 @@
       "speed": "15~16",
       "on_block": "-7~-6",
       "on_hit": "+9~+10",
-      "on_ch": "+9~+10"
+      "on_ch": "+9~+10",
+      "notes": null
     },
     {
       "notation": "DVK d/f+1, 2",
@@ -862,7 +957,8 @@
       "speed": "15~16",
       "on_block": "-13",
       "on_hit": "Launch (JG?)",
-      "on_ch": "Launch (JG?)"
+      "on_ch": "Launch (JG?)",
+      "notes": null
     },
     {
       "notation": "DVK u or u/f+1+2",
@@ -871,7 +967,8 @@
       "speed": "20~32",
       "on_block": "KND",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
     },
     {
       "notation": "DVK f, F+2",
@@ -880,7 +977,8 @@
       "speed": "16(17~)",
       "on_block": "-13",
       "on_hit": "KND",
-      "on_ch": "Throw(CS)"
+      "on_ch": "Throw(CS)",
+      "notes": null
     },
     {
       "notation": "DVK f, n, d, d/f+1 When hit U/F",
@@ -889,7 +987,8 @@
       "speed": "23 Air(26~)",
       "on_block": "-15",
       "on_hit": "Throw(KND)",
-      "on_ch": "Throw(KND)"
+      "on_ch": "Throw(KND)",
+      "notes": null
     },
     {
       "notation": "DVK SS+2",
@@ -898,7 +997,8 @@
       "speed": "17(26~)",
       "on_block": "-22",
       "on_hit": "Launch",
-      "on_ch": "Launch"
+      "on_ch": "Launch",
+      "notes": null
     },
     {
       "notation": "DVK d+1+2 (Opponent Down)",
@@ -907,7 +1007,978 @@
       "speed": "24~25",
       "on_block": "-15~-13",
       "on_hit": "KND",
-      "on_ch": "KND"
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "Command",
+      "hit_level": "Hit level",
+      "damage": "Damage",
+      "speed": "Start up frame",
+      "on_block": "Block frame",
+      "on_hit": "Hit frame",
+      "on_ch": "Counter hit frame",
+      "notes": "Notes"
+    },
+    {
+      "notation": "1",
+      "hit_level": "h",
+      "damage": "9",
+      "speed": "10",
+      "on_block": "+1",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "2",
+      "hit_level": "h",
+      "damage": "16",
+      "speed": "12",
+      "on_block": "-3",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "3",
+      "hit_level": "h",
+      "damage": "18",
+      "speed": "14",
+      "on_block": "-8",
+      "on_hit": "+4",
+      "on_ch": "+4",
+      "notes": null
+    },
+    {
+      "notation": "4",
+      "hit_level": "h",
+      "damage": "24",
+      "speed": "12",
+      "on_block": "-9",
+      "on_hit": "+2",
+      "on_ch": "CS",
+      "notes": null
+    },
+    {
+      "notation": "3+4",
+      "hit_level": "h",
+      "damage": "21",
+      "speed": "14",
+      "on_block": "-8",
+      "on_hit": "+4",
+      "on_ch": "+4",
+      "notes": null
+    },
+    {
+      "notation": "b+1",
+      "hit_level": "h",
+      "damage": "17",
+      "speed": "11~12",
+      "on_block": "-10~-9",
+      "on_hit": "+1~+2",
+      "on_ch": "+1~+2",
+      "notes": null
+    },
+    {
+      "notation": "b+2",
+      "hit_level": "m",
+      "damage": "16",
+      "speed": "14",
+      "on_block": "-7",
+      "on_hit": "+4",
+      "on_ch": "+4",
+      "notes": null
+    },
+    {
+      "notation": "b+3",
+      "hit_level": "h",
+      "damage": "20",
+      "speed": "18",
+      "on_block": "-8",
+      "on_hit": "+3",
+      "on_ch": "+3",
+      "notes": null
+    },
+    {
+      "notation": "b+4",
+      "hit_level": "m",
+      "damage": "20",
+      "speed": "15",
+      "on_block": "-10",
+      "on_hit": "+1",
+      "on_ch": "+1",
+      "notes": null
+    },
+    {
+      "notation": "f+1",
+      "hit_level": "h",
+      "damage": "9",
+      "speed": "10",
+      "on_block": "+1",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "f+2",
+      "hit_level": "m(Absorbs 1 h/m hit)",
+      "damage": "33",
+      "speed": "20",
+      "on_block": "-12",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "f+3",
+      "hit_level": "m",
+      "damage": "29",
+      "speed": "19",
+      "on_block": "-13",
+      "on_hit": "+5",
+      "on_ch": "CS",
+      "notes": null
+    },
+    {
+      "notation": "f+4",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "19~20",
+      "on_block": "+3~+4 OC",
+      "on_hit": "+7~+8 OC",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "f, F+1",
+      "hit_level": "h",
+      "damage": "9",
+      "speed": "10(11~)",
+      "on_block": "+1",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "f, F+2",
+      "hit_level": "h",
+      "damage": "37",
+      "speed": "13(14~)",
+      "on_block": "-11",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "f, F+3",
+      "hit_level": "m",
+      "damage": "33",
+      "speed": "20(21~)",
+      "on_block": "-3 OC",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "f, F+4",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "19~20 (20~)",
+      "on_block": "+3~+4 OC",
+      "on_hit": "+7~+8 OC",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "d/b or d+1",
+      "hit_level": "Sm (TC)",
+      "damage": "6",
+      "speed": "10 RC",
+      "on_block": "-5",
+      "on_hit": "+6",
+      "on_ch": "+6",
+      "notes": null
+    },
+    {
+      "notation": "d/b+2",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "20 RC",
+      "on_block": "0 OC",
+      "on_hit": "+9 OC",
+      "on_ch": "+9 OC",
+      "notes": null
+    },
+    {
+      "notation": "d+2",
+      "hit_level": "Sm (TC)",
+      "damage": "10",
+      "speed": "11 RC",
+      "on_block": "-4",
+      "on_hit": "+7",
+      "on_ch": "+7",
+      "notes": null
+    },
+    {
+      "notation": "d/b+3",
+      "hit_level": "l (TC)",
+      "damage": "18",
+      "speed": "19~20 RC",
+      "on_block": "-12~-11",
+      "on_hit": "-1~0",
+      "on_ch": "+7~+8 OC",
+      "notes": null
+    },
+    {
+      "notation": "d+3",
+      "hit_level": "l (TC)",
+      "damage": "16",
+      "speed": "16 RC",
+      "on_block": "-17",
+      "on_hit": "-3",
+      "on_ch": "-3",
+      "notes": null
+    },
+    {
+      "notation": "d/b+4",
+      "hit_level": "l",
+      "damage": "24",
+      "speed": "20~21",
+      "on_block": "-12~-11",
+      "on_hit": "+2~+3",
+      "on_ch": "+5~+6 OC",
+      "notes": null
+    },
+    {
+      "notation": "d+4",
+      "hit_level": "l (TC)",
+      "damage": "9",
+      "speed": "12 RC",
+      "on_block": "-13",
+      "on_hit": "-2",
+      "on_ch": "-2",
+      "notes": null
+    },
+    {
+      "notation": "FC+1",
+      "hit_level": "Sm (TC)",
+      "damage": "6",
+      "speed": "10 RC",
+      "on_block": "-5",
+      "on_hit": "+6",
+      "on_ch": "+6",
+      "notes": null
+    },
+    {
+      "notation": "FC+2",
+      "hit_level": "Sm (TC)",
+      "damage": "10",
+      "speed": "11 RC",
+      "on_block": "-4",
+      "on_hit": "+7",
+      "on_ch": "+7",
+      "notes": null
+    },
+    {
+      "notation": "FC+3",
+      "hit_level": "l (TC)",
+      "damage": "16",
+      "speed": "16 RC",
+      "on_block": "-17",
+      "on_hit": "-3",
+      "on_ch": "-3",
+      "notes": null
+    },
+    {
+      "notation": "FC+4",
+      "hit_level": "l (TC)",
+      "damage": "13",
+      "speed": "12 RC",
+      "on_block": "-15",
+      "on_hit": "-4",
+      "on_ch": "-4",
+      "notes": null
+    },
+    {
+      "notation": "WS+1",
+      "hit_level": "m",
+      "damage": "13",
+      "speed": "13",
+      "on_block": "-5",
+      "on_hit": "+5",
+      "on_ch": "+5",
+      "notes": null
+    },
+    {
+      "notation": "WS+2",
+      "hit_level": "m",
+      "damage": "33",
+      "speed": "16",
+      "on_block": "-18",
+      "on_hit": "CS",
+      "on_ch": "CS",
+      "notes": "Homing"
+    },
+    {
+      "notation": "WS+1+2",
+      "hit_level": "m",
+      "damage": "16",
+      "speed": "12~13",
+      "on_block": "-2~-1",
+      "on_hit": "+9~+10",
+      "on_ch": "+9~+10",
+      "notes": null
+    },
+    {
+      "notation": "WS+3",
+      "hit_level": "m",
+      "damage": "32",
+      "speed": "21",
+      "on_block": "-5",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": "Homing"
+    },
+    {
+      "notation": "WS+4",
+      "hit_level": "m",
+      "damage": "17",
+      "speed": "11~12",
+      "on_block": "-3~-2",
+      "on_hit": "+8~+9",
+      "on_ch": "+8~+9",
+      "notes": null
+    },
+    {
+      "notation": "d/f+1",
+      "hit_level": "m",
+      "damage": "14",
+      "speed": "15~16",
+      "on_block": "-7~-6",
+      "on_hit": "+9~+10",
+      "on_ch": "+9~+10",
+      "notes": null
+    },
+    {
+      "notation": "d/f+2",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "14",
+      "on_block": "-12",
+      "on_hit": "+5",
+      "on_ch": "CS(13)",
+      "notes": "Homing"
+    },
+    {
+      "notation": "d/f+3",
+      "hit_level": "m",
+      "damage": "17",
+      "speed": "18~19",
+      "on_block": "-7~-6",
+      "on_hit": "+9~+10",
+      "on_ch": "+9~+10",
+      "notes": null
+    },
+    {
+      "notation": "d/f+4",
+      "hit_level": "m",
+      "damage": "13",
+      "speed": "13~14",
+      "on_block": "-9~-8",
+      "on_hit": "+2~+3",
+      "on_ch": "+2~+3",
+      "notes": null
+    },
+    {
+      "notation": "u/b or u or u/f+1",
+      "hit_level": "m (TJ)",
+      "damage": "16",
+      "speed": "18",
+      "on_block": "-8",
+      "on_hit": "+3",
+      "on_ch": "+3",
+      "notes": null
+    },
+    {
+      "notation": "u/b or u or u/f+2",
+      "hit_level": "h",
+      "damage": "24",
+      "speed": "17",
+      "on_block": "-8",
+      "on_hit": "+3",
+      "on_ch": "+3",
+      "notes": null
+    },
+    {
+      "notation": "u/b+3",
+      "hit_level": "m (TJ)",
+      "damage": "33",
+      "speed": "21",
+      "on_block": "-17",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "u or u/f+3",
+      "hit_level": "m (TJ)",
+      "damage": "33",
+      "speed": "19",
+      "on_block": "-9",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "u/b+4",
+      "hit_level": "m (TJ)",
+      "damage": "14",
+      "speed": "15",
+      "on_block": "-19",
+      "on_hit": "-8",
+      "on_ch": "-8",
+      "notes": null
+    },
+    {
+      "notation": "u or u/f+4",
+      "hit_level": "m (TJ)",
+      "damage": "21",
+      "speed": "25",
+      "on_block": "-12",
+      "on_hit": "-1",
+      "on_ch": "-1",
+      "notes": null
+    },
+    {
+      "notation": "SS+1",
+      "hit_level": "h",
+      "damage": "9",
+      "speed": "10(11~)",
+      "on_block": "+1",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "SS+2",
+      "hit_level": "h",
+      "damage": "16",
+      "speed": "12(21?~)",
+      "on_block": "-3",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "SS+3",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "23(32~)",
+      "on_block": "-10",
+      "on_hit": "CS",
+      "on_ch": "CS",
+      "notes": null
+    },
+    {
+      "notation": "SS+4",
+      "hit_level": "h",
+      "damage": "24",
+      "speed": "12(13~)",
+      "on_block": "-9",
+      "on_hit": "+2",
+      "on_ch": "CS",
+      "notes": null
+    },
+    {
+      "notation": "SS+3+4",
+      "hit_level": "h",
+      "damage": "21",
+      "speed": "14(15~)",
+      "on_block": "-8",
+      "on_hit": "+4",
+      "on_ch": "+4",
+      "notes": null
+    },
+    {
+      "notation": "DVK 1",
+      "hit_level": "h",
+      "damage": "9",
+      "speed": "10",
+      "on_block": "+1",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "DVK 2",
+      "hit_level": "h",
+      "damage": "16",
+      "speed": "12",
+      "on_block": "-3",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "DVK 3",
+      "hit_level": "h",
+      "damage": "18",
+      "speed": "14",
+      "on_block": "-8",
+      "on_hit": "+4",
+      "on_ch": "+4",
+      "notes": null
+    },
+    {
+      "notation": "DVK 4",
+      "hit_level": "h",
+      "damage": "24",
+      "speed": "12",
+      "on_block": "-9",
+      "on_hit": "+2",
+      "on_ch": "CS",
+      "notes": null
+    },
+    {
+      "notation": "DVK 3+4",
+      "hit_level": "h",
+      "damage": "21",
+      "speed": "14",
+      "on_block": "-8",
+      "on_hit": "+4",
+      "on_ch": "+4",
+      "notes": null
+    },
+    {
+      "notation": "DVK b+1",
+      "hit_level": "h",
+      "damage": "17",
+      "speed": "11~12",
+      "on_block": "-10~-9",
+      "on_hit": "+1~+2",
+      "on_ch": "+1~+2",
+      "notes": null
+    },
+    {
+      "notation": "DVK b+2",
+      "hit_level": "m",
+      "damage": "16",
+      "speed": "14",
+      "on_block": "-7",
+      "on_hit": "+4",
+      "on_ch": "+4",
+      "notes": null
+    },
+    {
+      "notation": "DVK b+3",
+      "hit_level": "h",
+      "damage": "20",
+      "speed": "18",
+      "on_block": "-8",
+      "on_hit": "+3",
+      "on_ch": "+3",
+      "notes": null
+    },
+    {
+      "notation": "DVK b+4",
+      "hit_level": "m",
+      "damage": "20",
+      "speed": "15",
+      "on_block": "-10",
+      "on_hit": "+1",
+      "on_ch": "+1",
+      "notes": null
+    },
+    {
+      "notation": "DVK f+1",
+      "hit_level": "h",
+      "damage": "9",
+      "speed": "10",
+      "on_block": "+1",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "DVK f+2",
+      "hit_level": "m(Absorbs 1 h/m hit)",
+      "damage": "33",
+      "speed": "20",
+      "on_block": "-12",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "DVK f+3",
+      "hit_level": "m",
+      "damage": "29",
+      "speed": "19",
+      "on_block": "-13",
+      "on_hit": "+5",
+      "on_ch": "CS",
+      "notes": null
+    },
+    {
+      "notation": "DVK f+4",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "19~20",
+      "on_block": "+3~+4 OC",
+      "on_hit": "+7~+8 OC",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "DVK f, F+1",
+      "hit_level": "h",
+      "damage": "9",
+      "speed": "10(11~)",
+      "on_block": "+1",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "DVK f, F+2",
+      "hit_level": "m",
+      "damage": "27(,4*3)",
+      "speed": "16(17~)",
+      "on_block": "-13",
+      "on_hit": "KND",
+      "on_ch": "Throw(CS)",
+      "notes": null
+    },
+    {
+      "notation": "DVK f, F+3",
+      "hit_level": "m",
+      "damage": "33",
+      "speed": "20(21~)",
+      "on_block": "-3 OC",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "DVK f, F+4",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "19~20 (20)",
+      "on_block": "+3~+4 OC",
+      "on_hit": "+7~+8 OC",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "d/b or d+1",
+      "hit_level": "Sm (TC)",
+      "damage": "6",
+      "speed": "10 RC",
+      "on_block": "-5",
+      "on_hit": "+6",
+      "on_ch": "+6",
+      "notes": null
+    },
+    {
+      "notation": "DVK d/b+2",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "20 RC",
+      "on_block": "0 OC",
+      "on_hit": "+9 OC",
+      "on_ch": "+9 OC",
+      "notes": null
+    },
+    {
+      "notation": "DVK d+2",
+      "hit_level": "Sm (TC)",
+      "damage": "10",
+      "speed": "11 RC",
+      "on_block": "-4",
+      "on_hit": "+7",
+      "on_ch": "+7",
+      "notes": null
+    },
+    {
+      "notation": "DVK d/b+3",
+      "hit_level": "l (TC)",
+      "damage": "18",
+      "speed": "19~20 RC",
+      "on_block": "-12~-11",
+      "on_hit": "-1~0",
+      "on_ch": "+7~+8 OC",
+      "notes": null
+    },
+    {
+      "notation": "DVK d+3",
+      "hit_level": "l (TC)",
+      "damage": "16",
+      "speed": "16 RC",
+      "on_block": "-17",
+      "on_hit": "-3",
+      "on_ch": "-3",
+      "notes": null
+    },
+    {
+      "notation": "DVK d/b+4",
+      "hit_level": "l",
+      "damage": "24",
+      "speed": "20",
+      "on_block": "-12",
+      "on_hit": "+2",
+      "on_ch": "+5 OC",
+      "notes": null
+    },
+    {
+      "notation": "DVK d+4",
+      "hit_level": "l (TC)",
+      "damage": "9",
+      "speed": "12 RC",
+      "on_block": "-13",
+      "on_hit": "-2",
+      "on_ch": "-2",
+      "notes": null
+    },
+    {
+      "notation": "DVK FC+1",
+      "hit_level": "Sm (TC)",
+      "damage": "6",
+      "speed": "10 RC",
+      "on_block": "-5",
+      "on_hit": "+6",
+      "on_ch": "+6",
+      "notes": null
+    },
+    {
+      "notation": "DVK FC+2",
+      "hit_level": "Sm (TC)",
+      "damage": "10",
+      "speed": "11 RC",
+      "on_block": "-4",
+      "on_hit": "+7",
+      "on_ch": "+7",
+      "notes": null
+    },
+    {
+      "notation": "DVK FC+3",
+      "hit_level": "l (TC)",
+      "damage": "16",
+      "speed": "16 RC",
+      "on_block": "-17",
+      "on_hit": "-3",
+      "on_ch": "-3",
+      "notes": null
+    },
+    {
+      "notation": "DVK FC+4",
+      "hit_level": "l (TC)",
+      "damage": "13",
+      "speed": "12 RC",
+      "on_block": "-15",
+      "on_hit": "-4",
+      "on_ch": "-4",
+      "notes": null
+    },
+    {
+      "notation": "DVK WS+1",
+      "hit_level": "m",
+      "damage": "13",
+      "speed": "13",
+      "on_block": "-5",
+      "on_hit": "+5",
+      "on_ch": "+5",
+      "notes": null
+    },
+    {
+      "notation": "DVK WS+2",
+      "hit_level": "m",
+      "damage": "33",
+      "speed": "16",
+      "on_block": "-18",
+      "on_hit": "CS",
+      "on_ch": "CS",
+      "notes": "Homing"
+    },
+    {
+      "notation": "DVK WS+1+2",
+      "hit_level": "m",
+      "damage": "16",
+      "speed": "12~13",
+      "on_block": "-2~-1",
+      "on_hit": "+9~+10",
+      "on_ch": "+9~+10",
+      "notes": null
+    },
+    {
+      "notation": "DVK WS+3",
+      "hit_level": "m",
+      "damage": "32",
+      "speed": "21",
+      "on_block": "-5",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": "Homing"
+    },
+    {
+      "notation": "DVK WS+4",
+      "hit_level": "m",
+      "damage": "17",
+      "speed": "11~12",
+      "on_block": "-3~-2",
+      "on_hit": "+8~+9",
+      "on_ch": "+8~+9",
+      "notes": null
+    },
+    {
+      "notation": "DVK d/f+1",
+      "hit_level": "m",
+      "damage": "14",
+      "speed": "15~16",
+      "on_block": "-7~-6",
+      "on_hit": "+9~+10",
+      "on_ch": "+9~+10",
+      "notes": null
+    },
+    {
+      "notation": "DVK d/f+2",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "14~15",
+      "on_block": "-12~-11",
+      "on_hit": "+5~+6",
+      "on_ch": "CS (13~14)",
+      "notes": "Homing"
+    },
+    {
+      "notation": "DVK d/f+3",
+      "hit_level": "m",
+      "damage": "17",
+      "speed": "18~19",
+      "on_block": "-7~-6",
+      "on_hit": "+9~+10",
+      "on_ch": "+9~+10",
+      "notes": null
+    },
+    {
+      "notation": "DVK d/f+4",
+      "hit_level": "m",
+      "damage": "13",
+      "speed": "13~14",
+      "on_block": "-9~-8",
+      "on_hit": "+2~+3",
+      "on_ch": "+2~+3",
+      "notes": null
+    },
+    {
+      "notation": "DVK u/b or u or u/f+1",
+      "hit_level": "m (TJ)",
+      "damage": "16",
+      "speed": "18",
+      "on_block": "-8",
+      "on_hit": "+3",
+      "on_ch": "+3",
+      "notes": null
+    },
+    {
+      "notation": "DVK u/b or u or u/f+2",
+      "hit_level": "h",
+      "damage": "24",
+      "speed": "17",
+      "on_block": "-8",
+      "on_hit": "+3",
+      "on_ch": "+3",
+      "notes": null
+    },
+    {
+      "notation": "DVK u/b+3",
+      "hit_level": "m (TJ)",
+      "damage": "33",
+      "speed": "21",
+      "on_block": "-17",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "DVK u or u/f+3",
+      "hit_level": "m (TJ)",
+      "damage": "33",
+      "speed": "19",
+      "on_block": "-9",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
+    },
+    {
+      "notation": "DVK u/b+4",
+      "hit_level": "m (TJ)",
+      "damage": "14",
+      "speed": "15",
+      "on_block": "-19",
+      "on_hit": "-8",
+      "on_ch": "-8",
+      "notes": null
+    },
+    {
+      "notation": "DVK u or u/f+4",
+      "hit_level": "m (TJ)",
+      "damage": "21",
+      "speed": "25",
+      "on_block": "-12",
+      "on_hit": "-1",
+      "on_ch": "-1",
+      "notes": null
+    },
+    {
+      "notation": "DVK SS+1",
+      "hit_level": "h",
+      "damage": "9",
+      "speed": "10(11~)",
+      "on_block": "+1",
+      "on_hit": "+8",
+      "on_ch": "+8",
+      "notes": null
+    },
+    {
+      "notation": "DVK SS+2",
+      "hit_level": "m",
+      "damage": "33",
+      "speed": "17(26~)",
+      "on_block": "-22",
+      "on_hit": "Launch",
+      "on_ch": "Launch",
+      "notes": null
+    },
+    {
+      "notation": "DVK SS+3",
+      "hit_level": "m",
+      "damage": "27",
+      "speed": "23(32~)",
+      "on_block": "-10",
+      "on_hit": "CS",
+      "on_ch": "CS",
+      "notes": null
+    },
+    {
+      "notation": "DVK SS+4",
+      "hit_level": "h",
+      "damage": "24",
+      "speed": "12(13~)",
+      "on_block": "-9",
+      "on_hit": "+2",
+      "on_ch": "CS",
+      "notes": null
+    },
+    {
+      "notation": "DVK SS+3+4",
+      "hit_level": "!",
+      "damage": "54",
+      "speed": "69 Air(70~)",
+      "on_block": "KND",
+      "on_hit": "KND",
+      "on_ch": "KND",
+      "notes": null
     }
   ],
   "metadata": {

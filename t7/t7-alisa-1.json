@@ -1545,9 +1545,9 @@
       "hit_level": "l x 5 (TC)",
       "damage": "4*4,8",
       "speed": "20~21, cs4~",
-      "on_block": "+3",
-      "on_hit": "-2s",
-      "on_ch": "-2s",
+      "on_block": "-12",
+      "on_hit": "+3s",
+      "on_ch": "+3s",
       "notes": null
     },
     {

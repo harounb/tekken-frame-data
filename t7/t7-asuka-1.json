@@ -148,7 +148,7 @@
       "on_block": "-9~-8",
       "on_hit": "KND",
       "on_ch": "KND",
-      "notes": null
+      "notes": "Tail spin"
     },
     {
       "notation": "2, 3",
@@ -517,7 +517,7 @@
       "speed": "21",
       "on_block": "-12",
       "on_hit": "+4s",
-      "on_ch": "+14kg",
+      "on_ch": "+14g",
       "notes": null
     },
     {
@@ -1337,7 +1337,7 @@
       "speed": "21",
       "on_block": "-12",
       "on_hit": "+4s",
-      "on_ch": "+14kg",
+      "on_ch": "+14g",
       "notes": null
     },
     {
