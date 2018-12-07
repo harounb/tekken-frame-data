@@ -1,0 +1,72 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "v0.4.json",
+  "title": "Tekken 7 Character Data v0.4",
+  "description": "Frame data for a Tekken 7 character",
+  "type": "object",
+  "properties": {
+    "moves": {
+      "description": "A collection of character moves",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "notation": {
+            "type": "string",
+            "isUniqueKey": true
+          },
+          "hit_level": {
+            "type": ["string", "null"]
+          },
+          "damage": {
+            "type": ["string", "null"]
+          },
+          "speed": {
+            "type": ["string", "null"]
+          },
+          "on_block": {
+            "type": ["string", "null"]
+          },
+          "on_hit": {
+            "type": ["string", "null"]
+          },
+          "on_ch": {
+            "type": ["string", "null"]
+          },
+          "notes": {
+            "type": ["string", "null"]
+          }
+        },
+        "required": [
+          "notation",
+          "hit_level",
+          "damage",
+          "speed",
+          "on_block",
+          "on_hit",
+          "on_ch"
+        ]
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Data about the frame data",
+      "properties": {
+        "ver": {
+          "type": "string"
+        },
+        "game": {
+          "type": "string"
+        },
+        "character": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        }
+      },
+      "required": ["ver", "game", "character", "type"]
+    }
+  },
+  "required": ["moves", "metadata"]
+}
