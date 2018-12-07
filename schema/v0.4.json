@@ -44,11 +44,9 @@
           "speed",
           "on_block",
           "on_hit",
-          "on_ch",
-          "notes"
+          "on_ch"
         ]
-      },
-      "uniqueItems": true
+      }
     },
     "metadata": {
       "type": "object",
